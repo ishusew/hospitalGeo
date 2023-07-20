@@ -1,0 +1,6582 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-20T14:55:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/191815840",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Asiri Surgical Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8797172,
+          6.8945486
+        ]
+      },
+      "id": "node/191815840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253022237",
+        "amenity": "hospital",
+        "designation": "mother and baby",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "is_in": "Colombo, Colombo District, Western Province, Sri Lanka",
+        "name": "Joseph Fraser Memorial Hospital",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8652189,
+          6.8952045
+        ]
+      },
+      "id": "node/253022237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/254367261",
+        "addr:city": "Wethara",
+        "addr:street": "Colombo - Horana Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Wethara District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9729749,
+          6.7852045
+        ]
+      },
+      "id": "node/254367261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255179653",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Sri Jayawardenapura teaching hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9261518,
+          6.8683337
+        ]
+      },
+      "id": "node/255179653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310166807",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "is_in": "Galle, Galle District, Southern Province, Sri Lanka",
+        "name": "Co-op Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2161531,
+          6.0366488
+        ]
+      },
+      "id": "node/310166807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310166824",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "is_in": "Galle, Galle District, Southern Province, Sri Lanka",
+        "name": "Asiri Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2161505,
+          6.0358559
+        ]
+      },
+      "id": "node/310166824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617214076",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Divisional Hospital Thalangama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9285198,
+          6.9062331
+        ]
+      },
+      "id": "node/617214076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617262855",
+        "addr:city": "Pannipitiya",
+        "addr:street": "Pannipitiya-Malambe Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pannipitiya Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9522616,
+          6.8468216
+        ]
+      },
+      "id": "node/617262855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618557052",
+        "addr:city": "colombo 08",
+        "addr:street": "Cotta Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Western Hospital",
+        "wikidata": "Q20047300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8856356,
+          6.9117052
+        ]
+      },
+      "id": "node/618557052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618657478",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dambulla General Provincial Hospital",
+        "name:en": "Dambulla Hospital",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.650505,
+          7.8728249
+        ]
+      },
+      "id": "node/618657478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619735564",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Colombo General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8671954,
+          6.9172436
+        ]
+      },
+      "id": "node/619735564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619944442",
+        "addr:city": "Nawinna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nawinna Medicare Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9143409,
+          6.8546505
+        ]
+      },
+      "id": "node/619944442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621183283",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Mulleriyawa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.942918,
+          6.9247709
+        ]
+      },
+      "id": "node/621183283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621199761",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hemas Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8912101,
+          6.9887373
+        ]
+      },
+      "id": "node/621199761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621201132",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry",
+        "name": "Hekitta Mental Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8768982,
+          6.98282
+        ]
+      },
+      "id": "node/621201132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621201133",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Leprosy Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8755142,
+          6.9828093
+        ]
+      },
+      "id": "node/621201133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621908264",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Siddhalepa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8773217,
+          6.8311854
+        ]
+      },
+      "id": "node/621908264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/654172175",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sulaiman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8658056,
+          6.9420589
+        ]
+      },
+      "id": "node/654172175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/673927618",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dehiwala Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8664157,
+          6.8607229
+        ]
+      },
+      "id": "node/673927618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679004906",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maccarthy Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8697567,
+          6.9139635
+        ]
+      },
+      "id": "node/679004906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/681802896",
+        "addr:city": "Colombo 10",
+        "addr:housenumber": "19",
+        "addr:street": "Kynsey Road",
+        "amenity": "hospital",
+        "check_date": "2022-10-11",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "De Soysa Hospital for Women",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8702449,
+          6.9198065
+        ]
+      },
+      "id": "node/681802896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844674876",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kiribathgoda Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9292155,
+          6.9838357
+        ]
+      },
+      "id": "node/844674876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844679663",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lanka Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9300631,
+          6.9808166
+        ]
+      },
+      "id": "node/844679663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/873842128",
+        "addr:city": "Nuwara Eliya",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Nuwara Eliya General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7803117,
+          6.9741095
+        ]
+      },
+      "id": "node/873842128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/929115028",
+        "amenity": "hospital",
+        "name": "IDH Hospital",
+        "note": "Now known as National Institute of Infectious Diseases"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9165176,
+          6.9226177
+        ]
+      },
+      "id": "node/929115028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/976674824",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dental Surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8646684,
+          6.9251045
+        ]
+      },
+      "id": "node/976674824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105822178",
+        "addr:city": "Thissamaharama",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2685667,
+          6.285
+        ]
+      },
+      "id": "node/1105822178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1134759577",
+        "amenity": "hospital",
+        "name": "Lunuwila Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.861647,
+          7.3486769
+        ]
+      },
+      "id": "node/1134759577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1138325216",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "De Soysa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8776831,
+          6.7840477
+        ]
+      },
+      "id": "node/1138325216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179885197",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Badulla Central Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0583567,
+          6.9858583
+        ]
+      },
+      "id": "node/1179885197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1268340408",
+        "addr:street": "Negombo-Colombo Road",
+        "amenity": "hospital",
+        "name": "Singer Mega",
+        "name:en": "Nawaloka Hospital",
+        "phone": "0115777777",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8497222,
+          7.2092833
+        ]
+      },
+      "id": "node/1268340408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292992413",
+        "amenity": "hospital",
+        "name": "Arogya Gampaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0005285,
+          7.0906504
+        ]
+      },
+      "id": "node/1292992413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1304839120",
+        "amenity": "hospital",
+        "name": "Rural Hospital Halgolla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3664892,
+          7.0424521
+        ]
+      },
+      "id": "node/1304839120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1369179914",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Park Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8725351,
+          6.8872112
+        ]
+      },
+      "id": "node/1369179914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370716555",
+        "amenity": "hospital",
+        "name": "Chest Hospital Welisara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9029398,
+          7.0242496
+        ]
+      },
+      "id": "node/1370716555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370719663",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Browns Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9206152,
+          7.0277745
+        ]
+      },
+      "id": "node/1370719663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370719682",
+        "amenity": "hospital",
+        "name": "Kandana Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9037391,
+          7.0412386
+        ]
+      },
+      "id": "node/1370719682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370722303",
+        "amenity": "hospital",
+        "name": "Ranwwiru Sewana Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9227398,
+          7.023994
+        ]
+      },
+      "id": "node/1370722303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1378977879",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr Muhsin - Dental Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8604707,
+          6.8957176
+        ]
+      },
+      "id": "node/1378977879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1378988156",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Neurology Ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.870419,
+          6.9192775
+        ]
+      },
+      "id": "node/1378988156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1378988158",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Cardiac Ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8696197,
+          6.9206887
+        ]
+      },
+      "id": "node/1378988158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1378988163",
+        "amenity": "hospital",
+        "check_date": "2023-01-01",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Accident Ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8671977,
+          6.9186997
+        ]
+      },
+      "id": "node/1378988163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1427183461",
+        "addr:city": "Walana",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name:en": "Weligama District Hospital",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4189122,
+          5.9749081
+        ]
+      },
+      "id": "node/1427183461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1463832354",
+        "amenity": "hospital",
+        "healthcare": "alternative",
+        "healthcare:speciality": "ayurveda",
+        "name": "Meegoda Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.042246,
+          6.8461319
+        ]
+      },
+      "id": "node/1463832354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1477746216",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8993102,
+          7.375189
+        ]
+      },
+      "id": "node/1477746216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1497165127",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2162698,
+          6.0288675
+        ]
+      },
+      "id": "node/1497165127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1523693927",
+        "addr:city": "Maharagama",
+        "addr:street": "High Level Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dental Institute"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9286112,
+          6.8457107
+        ]
+      },
+      "id": "node/1523693927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1617955806",
+        "amenity": "hospital",
+        "name": "Dissanayake Private Hospital Negombo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8536244,
+          7.2012053
+        ]
+      },
+      "id": "node/1617955806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640241532",
+        "addr:city": "Mirissa",
+        "addr:street": "Colombo -Matara Road",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4541208,
+          5.9531215
+        ]
+      },
+      "id": "node/1640241532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1650226106",
+        "addr:city": "Nawinna",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ayurveda Corporation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9176997,
+          6.855884
+        ]
+      },
+      "id": "node/1650226106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1650227458",
+        "addr:city": "Wattegedara Junction",
+        "addr:street": "High Level Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9215162,
+          6.8507988
+        ]
+      },
+      "id": "node/1650227458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1662139981",
+        "addr:city": "Maharagama",
+        "addr:street": "High Level Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Asia Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.92922,
+          6.8453097
+        ]
+      },
+      "id": "node/1662139981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1722822880",
+        "amenity": "hospital",
+        "name": "Okkampitiya Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3005801,
+          6.7554682
+        ]
+      },
+      "id": "node/1722822880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1731515251",
+        "amenity": "hospital",
+        "name": "Sooriya Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8228174,
+          7.906233
+        ]
+      },
+      "id": "node/1731515251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1736854509",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Katugampala Weda Madura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9633446,
+          6.8124463
+        ]
+      },
+      "id": "node/1736854509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744023357",
+        "addr:city": "Katharagama UP",
+        "amenity": "hospital",
+        "name": "District Hospital, Katharagama."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3388947,
+          6.4126218
+        ]
+      },
+      "id": "node/1744023357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796819687",
+        "amenity": "hospital",
+        "name": "Padukka Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0896596,
+          6.8400553
+        ]
+      },
+      "id": "node/1796819687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796922719",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1789289,
+          6.6451235
+        ]
+      },
+      "id": "node/1796922719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796922986",
+        "amenity": "hospital",
+        "name": "Athura Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1794385,
+          6.6448198
+        ]
+      },
+      "id": "node/1796922986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1805745347",
+        "addr:city": "Karawanella SGP",
+        "amenity": "hospital",
+        "name": "Karawanella Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.261432,
+          7.0245178
+        ]
+      },
+      "id": "node/1805745347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1814595125",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Hambantota General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1224549,
+          6.1271953
+        ]
+      },
+      "id": "node/1814595125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1818503771",
+        "amenity": "hospital",
+        "name": "Ambalantota Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0220545,
+          6.1147035
+        ]
+      },
+      "id": "node/1818503771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1818771616",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Diyatalawa Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9571343,
+          6.8055733
+        ]
+      },
+      "id": "node/1818771616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1819855346",
+        "amenity": "hospital",
+        "name": "Ettampitiya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9899055,
+          6.9346877
+        ]
+      },
+      "id": "node/1819855346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822725595",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Phillip Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9629869,
+          6.5793909
+        ]
+      },
+      "id": "node/1822725595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1823709276",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Teaching Hospital Kalutara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.985238,
+          6.5630687
+        ]
+      },
+      "id": "node/1823709276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1830413983",
+        "amenity": "hospital",
+        "name": "Dickoya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6002986,
+          6.8548993
+        ]
+      },
+      "id": "node/1830413983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1830502778",
+        "addr:city": "Gampola",
+        "addr:street": "Peradeniya-Badulla-Chenkaladi Road",
+        "amenity": "hospital",
+        "name": "Suwa Bawana Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5735309,
+          7.1639499
+        ]
+      },
+      "id": "node/1830502778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1831898507",
+        "addr:city": "Hemmathagama",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hemmathagama Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5015841,
+          7.1733007
+        ]
+      },
+      "id": "node/1831898507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1831954351",
+        "addr:city": "Ulapane",
+        "addr:street": "Gampola-Nawalapitiya Road",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.564435,
+          7.1061708
+        ]
+      },
+      "id": "node/1831954351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838419646",
+        "addr:housenumber": "36A",
+        "addr:street": "Galle Road",
+        "amenity": "hospital",
+        "check_date": "2023-03-29",
+        "email": "mediclinicwellawatta@gmail.com",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Medi Clinic wellawatte",
+        "operator:type": "private",
+        "phone": "+94 112 593 959",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8599713,
+          6.878155
+        ]
+      },
+      "id": "node/1838419646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839459825",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "National Eye Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8651464,
+          6.9188122
+        ]
+      },
+      "id": "node/1839459825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1839459849",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ratnam's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8568546,
+          6.9211084
+        ]
+      },
+      "id": "node/1839459849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1843565879",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Biyagama Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9939404,
+          6.9469426
+        ]
+      },
+      "id": "node/1843565879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1846323739",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6018991,
+          5.9637929
+        ]
+      },
+      "id": "node/1846323739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1856812558",
+        "amenity": "hospital",
+        "name": "Wanniarachchi Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2378677,
+          7.2950405
+        ]
+      },
+      "id": "node/1856812558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1867157681",
+        "amenity": "hospital",
+        "name": "Mahawa Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2824677,
+          7.8235267
+        ]
+      },
+      "id": "node/1867157681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1877385268",
+        "amenity": "hospital",
+        "name": "Inginiyagala Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5421294,
+          7.2262613
+        ]
+      },
+      "id": "node/1877385268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932028147",
+        "amenity": "hospital",
+        "name": "Walasmulla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6980832,
+          6.1473289
+        ]
+      },
+      "id": "node/1932028147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1933478833",
+        "amenity": "hospital",
+        "name": "Kirama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6684374,
+          6.2067106
+        ]
+      },
+      "id": "node/1933478833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1945644723",
+        "amenity": "hospital",
+        "name": "District Hospital Passara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1524924,
+          6.9335724
+        ]
+      },
+      "id": "node/1945644723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1960904428",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0486572,
+          6.8740488
+        ]
+      },
+      "id": "node/1960904428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1974694453",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mahiyanganaya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9907893,
+          7.3261607
+        ]
+      },
+      "id": "node/1974694453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976145973",
+        "amenity": "hospital",
+        "name": "Kobeigane Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.125702,
+          7.6555111
+        ]
+      },
+      "id": "node/1976145973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977820865",
+        "amenity": "hospital",
+        "name": "Hospital Narammala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2064789,
+          7.4312722
+        ]
+      },
+      "id": "node/1977820865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977820889",
+        "amenity": "hospital",
+        "name": "Ayurweda Hospital Narammala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2125944,
+          7.4325701
+        ]
+      },
+      "id": "node/1977820889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1978801477",
+        "addr:city": "Nugegoda",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nugegoda Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8913231,
+          6.8685486
+        ]
+      },
+      "id": "node/1978801477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981147412",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kekirawa District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5960427,
+          8.044023
+        ]
+      },
+      "id": "node/1981147412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1981159943",
+        "amenity": "hospital",
+        "name": "Mihintale district Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5098112,
+          8.3547478
+        ]
+      },
+      "id": "node/1981159943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1988112233",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Asiri Laboratory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9290176,
+          6.8920418
+        ]
+      },
+      "id": "node/1988112233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1993203085",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0110016,
+          6.7879708
+        ]
+      },
+      "id": "node/1993203085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1994693274",
+        "addr:city": "Kalawana",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3974002,
+          6.5306079
+        ]
+      },
+      "id": "node/1994693274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1994920168",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Ratnapura Teaching Hospital",
+        "website": "http://thratnapura.health.gov.lk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3924992,
+          6.6871447
+        ]
+      },
+      "id": "node/1994920168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2001999417",
+        "amenity": "hospital",
+        "name": "Mahaoya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3555798,
+          7.5309537
+        ]
+      },
+      "id": "node/2001999417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2026668068",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Colombo Friend-in-Need Society"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8559089,
+          6.9164093
+        ]
+      },
+      "id": "node/2026668068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2035811627",
+        "addr:city": "Nuwara Eliya",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ideal Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7681614,
+          6.9723493
+        ]
+      },
+      "id": "node/2035811627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2035855678",
+        "addr:city": "Kandapola",
+        "amenity": "hospital",
+        "name": "Kandapola Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.818241,
+          6.9951992
+        ]
+      },
+      "id": "node/2035855678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087548638",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Peradeniya Teaching Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5981261,
+          7.266409
+        ]
+      },
+      "id": "node/2087548638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2094306206",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medicare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8723122,
+          6.9215796
+        ]
+      },
+      "id": "node/2094306206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2094344643",
+        "addr:city": "Borella",
+        "addr:street": "Kotta Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Borella Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.880517,
+          6.9139244
+        ]
+      },
+      "id": "node/2094344643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2096452649",
+        "addr:city": "Kolonnawa",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "YMBA Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.894408,
+          6.9333964
+        ]
+      },
+      "id": "node/2096452649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2100972630",
+        "addr:city": "Homagama",
+        "addr:street": "Malapalla Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Homagama Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9923651,
+          6.8469074
+        ]
+      },
+      "id": "node/2100972630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2112572119",
+        "addr:city": "Galewela",
+        "addr:street": "Kurunegala-Dambulla Road",
+        "amenity": "hospital",
+        "name": "Galewela Base Hospital",
+        "name:en": "Galewela hospital gov"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5716613,
+          7.7606317
+        ]
+      },
+      "id": "node/2112572119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2124720725",
+        "addr:city": "Gothatuwa",
+        "amenity": "hospital",
+        "name": "Lions Eye Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9123243,
+          6.927259
+        ]
+      },
+      "id": "node/2124720725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2146223914",
+        "amenity": "hospital",
+        "name": "Erathna Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4075065,
+          6.835309
+        ]
+      },
+      "id": "node/2146223914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151514476",
+        "addr:city": "Rathnapura",
+        "addr:street": "Bus Stand Road",
+        "amenity": "hospital",
+        "name": "Coop medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4027324,
+          6.6874477
+        ]
+      },
+      "id": "node/2151514476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2155827557",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3743171,
+          6.3796996
+        ]
+      },
+      "id": "node/2155827557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176700458",
+        "amenity": "hospital",
+        "name": "Deniyaya Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5682703,
+          6.3575453
+        ]
+      },
+      "id": "node/2176700458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2176940719",
+        "amenity": "hospital",
+        "name": "Pallegama Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5223857,
+          6.3298078
+        ]
+      },
+      "id": "node/2176940719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2285207608",
+        "amenity": "hospital",
+        "name": "Minneriya Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9045308,
+          8.0468473
+        ]
+      },
+      "id": "node/2285207608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286402631",
+        "amenity": "hospital",
+        "name": "Medirigiriya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9675466,
+          8.1430794
+        ]
+      },
+      "id": "node/2286402631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303597213",
+        "amenity": "hospital",
+        "name": "Welikanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2464883,
+          7.9485257
+        ]
+      },
+      "id": "node/2303597213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2304485570",
+        "amenity": "hospital",
+        "name": "Manampitiya Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.113417,
+          7.9046279
+        ]
+      },
+      "id": "node/2304485570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315533313",
+        "amenity": "hospital",
+        "name": "Medamahanuwara Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8151703,
+          7.289746
+        ]
+      },
+      "id": "node/2315533313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2323963211",
+        "amenity": "hospital",
+        "name": "Alawwa District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2301666,
+          7.2981194
+        ]
+      },
+      "id": "node/2323963211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2334181719",
+        "amenity": "hospital",
+        "name": "Teldeniya District Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7644417,
+          7.3077388
+        ]
+      },
+      "id": "node/2334181719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2335114652",
+        "amenity": "hospital",
+        "name": "Digana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7348435,
+          7.2942769
+        ]
+      },
+      "id": "node/2335114652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2338860270",
+        "amenity": "hospital",
+        "name": "Aranayake Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4587191,
+          7.1773575
+        ]
+      },
+      "id": "node/2338860270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339237715",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Panadura Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.905888,
+          6.7057665
+        ]
+      },
+      "id": "node/2339237715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339437466",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Suwa Medura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9082865,
+          6.7180466
+        ]
+      },
+      "id": "node/2339437466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2340164320",
+        "addr:city": "Mawanella",
+        "amenity": "hospital",
+        "name": "OSRO Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4497877,
+          7.2510461
+        ]
+      },
+      "id": "node/2340164320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2340165236",
+        "addr:city": "Mawanella",
+        "amenity": "hospital",
+        "comment": "no helipad",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Base Hospital Mawanella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4458988,
+          7.2536811
+        ]
+      },
+      "id": "node/2340165236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2342937786",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "alternative",
+        "healthcare:speciality": "ayurveda",
+        "name": "Pallekele Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7070344,
+          7.2714146
+        ]
+      },
+      "id": "node/2342937786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2343111695",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Yakghapitiya Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6676499,
+          7.298646
+        ]
+      },
+      "id": "node/2343111695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2370163010",
+        "amenity": "hospital",
+        "name": "Imaduwa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.391441,
+          6.0378367
+        ]
+      },
+      "id": "node/2370163010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388337545",
+        "amenity": "hospital",
+        "name": "Thalathuoya Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6893614,
+          7.2511826
+        ]
+      },
+      "id": "node/2388337545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410576900",
+        "amenity": "hospital",
+        "name": "Abisha Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4940509,
+          8.7483331
+        ]
+      },
+      "id": "node/2410576900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2426388316",
+        "amenity": "hospital",
+        "name": "Ingiriya District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.162144,
+          6.741412
+        ]
+      },
+      "id": "node/2426388316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2479890347",
+        "amenity": "hospital",
+        "name": "Leesons Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9220455,
+          7.0316559
+        ]
+      },
+      "id": "node/2479890347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524559604",
+        "amenity": "hospital",
+        "name": "District Hospitel Uva-Paranagama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8904325,
+          6.9381972
+        ]
+      },
+      "id": "node/2524559604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552015799",
+        "addr:city": "Maharagama",
+        "addr:housename": "1/135, Avissawella Road, Maharagama",
+        "addr:street": "High Level Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Odent Dental Surgery",
+        "note": "Open on Monday to Saturday 5pm to 8pm",
+        "phone": "0773888693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9308043,
+          6.8449276
+        ]
+      },
+      "id": "node/2552015799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558644076",
+        "amenity": "hospital",
+        "name": "Thalwaththa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1857597,
+          7.2918223
+        ]
+      },
+      "id": "node/2558644076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2559270088",
+        "amenity": "hospital",
+        "name": "Public Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1779798,
+          7.3372132
+        ]
+      },
+      "id": "node/2559270088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2588694138",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lunawa Aryuweda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8780478,
+          6.783547
+        ]
+      },
+      "id": "node/2588694138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610271942",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Primary Health Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.249527,
+          6.3023047
+        ]
+      },
+      "id": "node/2610271942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610318045",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4016012,
+          6.2882861
+        ]
+      },
+      "id": "node/2610318045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610405672",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8800558,
+          6.2343884
+        ]
+      },
+      "id": "node/2610405672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2708944796",
+        "addr:city": "Panadura",
+        "addr:housenumber": "76",
+        "addr:postcode": "12500",
+        "addr:street": "Panadura-Rathnapura",
+        "amenity": "hospital",
+        "ele": "7",
+        "emergency": "yes",
+        "facilities": "OPD, ETU, ICU, Theatre, Lab, Physiotherapy, Scan, X-Ray, Pahrmacy, Car Park",
+        "healthcare": "hospital",
+        "name": "Sachitra Hospital",
+        "note": "Experience the peace of mind that modern medical technology can provide with the therapeutic and loving care of our well qualified, experienced and dedicated Doctors and Nursing Staff.",
+        "phone": "+94382240425",
+        "website": "http://www.sachitrahospitals.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9106933,
+          6.7111418
+        ]
+      },
+      "id": "node/2708944796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2828331566",
+        "amenity": "hospital",
+        "name": "Peradeniya Dental Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.599262,
+          7.266579
+        ]
+      },
+      "id": "node/2828331566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831618989",
+        "amenity": "hospital",
+        "name": "Welikanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2458432,
+          7.9476358
+        ]
+      },
+      "id": "node/2831618989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2831625523",
+        "amenity": "hospital",
+        "name": "Ayurveda Central Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0416685,
+          7.5661087
+        ]
+      },
+      "id": "node/2831625523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2900426653",
+        "addr:city": "Ambalangoda",
+        "addr:street": "Ambalangoda -Batapola Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Roseth Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0544144,
+          6.2390668
+        ]
+      },
+      "id": "node/2900426653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901379801",
+        "addr:city": "Rathnapura",
+        "addr:street": "Inner Circular Road",
+        "amenity": "hospital",
+        "name": "Aloka Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4034419,
+          6.6821753
+        ]
+      },
+      "id": "node/2901379801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2901418998",
+        "addr:city": "Rathnapura",
+        "addr:street": "Colombo - Ratnapura Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Singhe Hospital",
+        "website": "https://www.singhehospital.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3944372,
+          6.6909091
+        ]
+      },
+      "id": "node/2901418998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2902312873",
+        "amenity": "hospital",
+        "name": "Akkurugoda MOH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5007265,
+          6.0084654
+        ]
+      },
+      "id": "node/2902312873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2905118777",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "ayurweda hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.920467,
+          6.9020699
+        ]
+      },
+      "id": "node/2905118777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910213594",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0413396,
+          6.2934953
+        ]
+      },
+      "id": "node/2910213594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910216436",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Aurvedic Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4113074,
+          8.3265775
+        ]
+      },
+      "id": "node/2910216436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2910342845",
+        "amenity": "hospital",
+        "name": "Dental Surgeon Private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9616363,
+          7.0685704
+        ]
+      },
+      "id": "node/2910342845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2913891490",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5928891,
+          7.2135973
+        ]
+      },
+      "id": "node/2913891490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2915434805",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Welimada Base Hospital",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9087119,
+          6.9090322
+        ]
+      },
+      "id": "node/2915434805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921319349",
+        "amenity": "hospital",
+        "designation": "Government",
+        "emergency": "yes",
+        "name": "Baddegama Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1804779,
+          6.1614238
+        ]
+      },
+      "id": "node/2921319349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964699767",
+        "amenity": "hospital",
+        "name": "Kandanegedara Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9787224,
+          7.3992228
+        ]
+      },
+      "id": "node/2964699767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2980887901",
+        "addr:city": "Embilipitiya",
+        "addr:housenumber": "14",
+        "addr:street": "Hospital Road",
+        "amenity": "hospital",
+        "name": "Indika Pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8433486,
+          6.3256369
+        ]
+      },
+      "id": "node/2980887901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3031566819",
+        "addr:street": "Weliweriya-Kirindiwela Road",
+        "amenity": "hospital",
+        "name": "Radawana Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.100181,
+          7.0324364
+        ]
+      },
+      "id": "node/3031566819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3090091975",
+        "addr:city": "Eheliyagoda",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2643708,
+          6.8482459
+        ]
+      },
+      "id": "node/3090091975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098340244",
+        "amenity": "hospital",
+        "name": "bsr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5250197,
+          5.9541051
+        ]
+      },
+      "id": "node/3098340244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3145014128",
+        "addr:city": "Udawalawe",
+        "amenity": "hospital",
+        "name": "Udawalawe Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8162356,
+          6.4252834
+        ]
+      },
+      "id": "node/3145014128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3147175363",
+        "addr:city": "Embilipitiya",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Green Medicare Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8575621,
+          6.3310635
+        ]
+      },
+      "id": "node/3147175363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3154127034",
+        "amenity": "hospital",
+        "name": "Panawala Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2723446,
+          6.8881022
+        ]
+      },
+      "id": "node/3154127034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3213933933",
+        "addr:city": "Ankumbura",
+        "amenity": "hospital",
+        "name": "Ankumbura Divitional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5701698,
+          7.4404367
+        ]
+      },
+      "id": "node/3213933933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215354223",
+        "addr:city": "Nawalapitiya",
+        "addr:street": "Nawalapitiya - Dimbula Road",
+        "amenity": "hospital",
+        "name": "District General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5352495,
+          7.0528085
+        ]
+      },
+      "id": "node/3215354223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3220016706",
+        "addr:city": "Kegalle",
+        "addr:housename": "Teaching Hospital Kegalle",
+        "amenity": "hospital",
+        "designation": "Teaching Hospital Kegalle",
+        "emergency": "yes",
+        "name": "Teaching Hospital Kegalle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.345705,
+          7.2474986
+        ]
+      },
+      "id": "node/3220016706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331326390",
+        "addr:city": "Kalmunai",
+        "amenity": "hospital",
+        "name": "Chenaikudiruppu Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8074135,
+          7.4174236
+        ]
+      },
+      "id": "node/3331326390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331351770",
+        "addr:city": "Maruthamunai",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8111066,
+          7.4327928
+        ]
+      },
+      "id": "node/3331351770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3333281914",
+        "addr:city": "Periyakallar",
+        "amenity": "hospital",
+        "name": "Base Hospital",
+        "name:en": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8116993,
+          7.4667411
+        ]
+      },
+      "id": "node/3333281914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3377388729",
+        "addr:city": "Tangalle",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.796872,
+          6.0227057
+        ]
+      },
+      "id": "node/3377388729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424999527",
+        "addr:city": "Mannar",
+        "addr:street": "Thalvupadu - Mannar Rd",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "District General Hospital",
+        "wikidata": "Q6750753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9032631,
+          8.9827374
+        ]
+      },
+      "id": "node/3424999527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455205573",
+        "addr:city": "Matara",
+        "addr:street": "Sri Karathota nahimi Mawath",
+        "amenity": "hospital",
+        "name": "Mohotti Private Hostpital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5466443,
+          5.948234
+        ]
+      },
+      "id": "node/3455205573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455219378",
+        "addr:city": "Matara",
+        "addr:street": "Anagarika Dharmapala Mawatha",
+        "amenity": "hospital",
+        "name": "Asiri Hospital (PVT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5385787,
+          5.9487624
+        ]
+      },
+      "id": "node/3455219378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3521708167",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Pimbura Distric Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1581676,
+          6.5757017
+        ]
+      },
+      "id": "node/3521708167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3537669661",
+        "amenity": "hospital",
+        "name": "Bemmulla Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0260558,
+          7.1212801
+        ]
+      },
+      "id": "node/3537669661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3590070473",
+        "amenity": "hospital",
+        "name": "Medagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4959268,
+          5.9509878
+        ]
+      },
+      "id": "node/3590070473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3590215199",
+        "amenity": "hospital",
+        "name": "Nildandahinna Genaral Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8925778,
+          7.0785193
+        ]
+      },
+      "id": "node/3590215199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3633843118",
+        "amenity": "hospital",
+        "name": "Mawarala Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5919817,
+          6.2018314
+        ]
+      },
+      "id": "node/3633843118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634924475",
+        "amenity": "hospital",
+        "name": "Central Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0283613,
+          7.6308071
+        ]
+      },
+      "id": "node/3634924475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3665944325",
+        "amenity": "hospital",
+        "name": "Chettikulam Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.312435,
+          8.6591013
+        ]
+      },
+      "id": "node/3665944325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3691169013",
+        "addr:city": "Mundalama",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8276202,
+          7.7887782
+        ]
+      },
+      "id": "node/3691169013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699456580",
+        "amenity": "hospital",
+        "name": "Angunukolapeless"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8997815,
+          6.1652567
+        ]
+      },
+      "id": "node/3699456580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710409771",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8519954,
+          7.0929247
+        ]
+      },
+      "id": "node/3710409771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727831288",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Thasim Chest Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2165098,
+          6.036438
+        ]
+      },
+      "id": "node/3727831288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729663235",
+        "amenity": "hospital",
+        "name": "Kandy Private Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6321242,
+          7.3124054
+        ]
+      },
+      "id": "node/3729663235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3753926197",
+        "addr:city": "Dolosbage",
+        "addr:street": "Gampola-Dolosbage Road",
+        "amenity": "hospital",
+        "name": "Dolosbage Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4712432,
+          7.0819686
+        ]
+      },
+      "id": "node/3753926197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3765219866",
+        "amenity": "hospital",
+        "name": "Poovarasankulam Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3671949,
+          8.7524912
+        ]
+      },
+      "id": "node/3765219866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769921344",
+        "addr:city": "Weeraketiya",
+        "addr:street": "Tangalle - Weeraketiya Road",
+        "amenity": "hospital",
+        "name": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.765182,
+          6.1450937
+        ]
+      },
+      "id": "node/3769921344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770559783",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7437221,
+          6.0884432
+        ]
+      },
+      "id": "node/3770559783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3778409802",
+        "amenity": "hospital",
+        "name": "Aurvedic Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0529372,
+          7.0661314
+        ]
+      },
+      "id": "node/3778409802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798153917",
+        "amenity": "hospital",
+        "name": "Kahawatte Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6047234,
+          7.1612264
+        ]
+      },
+      "id": "node/3798153917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3801578860",
+        "amenity": "hospital",
+        "ele": "120",
+        "name": "Divisional Hospital - Sithaparapuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5266415,
+          8.6794289
+        ]
+      },
+      "id": "node/3801578860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3822963761",
+        "amenity": "hospital",
+        "name": "New City Channeling Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0469431,
+          7.6694499
+        ]
+      },
+      "id": "node/3822963761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842184472",
+        "addr:city": "colombo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "General"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9141857,
+          6.9730561
+        ]
+      },
+      "id": "node/3842184472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842184774",
+        "amenity": "hospital",
+        "name": "gampaha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3289831,
+          7.0532237
+        ]
+      },
+      "id": "node/3842184774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3867347215",
+        "amenity": "hospital",
+        "name": "Senapura (Kagama) Rural Hospital",
+        "phone": "025 2 245162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4706225,
+          8.0919436
+        ]
+      },
+      "id": "node/3867347215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3874862041",
+        "amenity": "hospital",
+        "name": "Rural Ayurvedic Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8807052,
+          6.8312378
+        ]
+      },
+      "id": "node/3874862041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3880396357",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Co-operative Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7656051,
+          6.9779048
+        ]
+      },
+      "id": "node/3880396357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3880398627",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medisi Channel Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7673681,
+          6.974379
+        ]
+      },
+      "id": "node/3880398627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3889586527",
+        "amenity": "hospital",
+        "name": "Rukkasagara Ayuruwedic hospital",
+        "operator": "Department of health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1354938,
+          7.4332264
+        ]
+      },
+      "id": "node/3889586527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3907647596",
+        "amenity": "hospital",
+        "name": "NTS Badulla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.052442,
+          6.9904156
+        ]
+      },
+      "id": "node/3907647596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3918017664",
+        "amenity": "hospital",
+        "name": "ayurvedic hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.009878,
+          7.0219408
+        ]
+      },
+      "id": "node/3918017664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3925585410",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ambalangoda Districut Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0625085,
+          6.2491338
+        ]
+      },
+      "id": "node/3925585410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926600649",
+        "amenity": "hospital",
+        "name": "Mankulam Base Hospital",
+        "operator": "Ministry of Health"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4470247,
+          9.1280175
+        ]
+      },
+      "id": "node/3926600649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926651395",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hemas Hospital Laboratory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0540939,
+          6.2384053
+        ]
+      },
+      "id": "node/3926651395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926842867",
+        "addr:city": "Puliyankulam",
+        "addr:district": "Vauniya",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "name": "Puliyankulam Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5258698,
+          8.9646044
+        ]
+      },
+      "id": "node/3926842867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926880521",
+        "addr:city": "Vavuniya",
+        "addr:province": "Northern",
+        "addr:suburb": "Nedunkerny",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Divisional Hospital - Nedunkerny",
+        "name:ta": "பிரதேச வைத்தியசாலை - நெடுங்கேணி"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6528729,
+          9.0537012
+        ]
+      },
+      "id": "node/3926880521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3931996584",
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Auyuvedic Hospital Vavuniya "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4388746,
+          8.7605684
+        ]
+      },
+      "id": "node/3931996584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3967289227",
+        "amenity": "hospital",
+        "name": "Pavatkulam Divisional Hospital",
+        "name:ta": "பாவற்குளம் பிரதேச வைத்தியசாலை"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4209895,
+          8.7059888
+        ]
+      },
+      "id": "node/3967289227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3983331257",
+        "amenity": "hospital",
+        "name": "Neriyakulam Divisional Hospital",
+        "name:ta": "நேரியகுளம் பிரதேச வைத்திய சாலை"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3701343,
+          8.6016568
+        ]
+      },
+      "id": "node/3983331257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992483614",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7135553,
+          7.2498267
+        ]
+      },
+      "id": "node/3992483614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039495741",
+        "addr:city": "Kundasale",
+        "addr:street": "Katugastota-Bambarella Road",
+        "amenity": "hospital",
+        "name": "Makkanigama Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.705658,
+          7.3463532
+        ]
+      },
+      "id": "node/4039495741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4045200420",
+        "addr:city": "Kahawatta",
+        "addr:street": "Pelmadulla - Embilipitiya - Nonagama Highway",
+        "amenity": "hospital",
+        "name": "Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.575266,
+          6.5786992
+        ]
+      },
+      "id": "node/4045200420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4045295751",
+        "addr:city": "Godakawela",
+        "addr:street": "Rathnapura - Embilipitiya Road",
+        "amenity": "hospital",
+        "name": "District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.65651,
+          6.5018627
+        ]
+      },
+      "id": "node/4045295751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4045303043",
+        "addr:city": "Rakwana",
+        "addr:street": "Bulutota Road",
+        "amenity": "hospital",
+        "name": "Rakwana District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.614724,
+          6.4715878
+        ]
+      },
+      "id": "node/4045303043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068054466",
+        "amenity": "hospital",
+        "name": "Kotaligoda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5133213,
+          7.2895042
+        ]
+      },
+      "id": "node/4068054466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077038318",
+        "addr:city": "Colombo 07",
+        "addr:street": "Ward Place",
+        "amenity": "hospital",
+        "check_date": "2023-03-06",
+        "emergency": "yes",
+        "healthcare": "dentist",
+        "healthcare:speciality": "dentist;dentistry",
+        "internet_access": "no",
+        "name": "Dental Ward (Colombo National Hospital)",
+        "name:en": "National Dental Hospital (Teaching)",
+        "opening_hours": "24/7",
+        "operator:type": "government",
+        "payment:free": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8661463,
+          6.9172706
+        ]
+      },
+      "id": "node/4077038318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4084471911",
+        "amenity": "hospital",
+        "name": "Jaela regional hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8940656,
+          7.0750452
+        ]
+      },
+      "id": "node/4084471911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4089673111",
+        "addr:city": "Kandy",
+        "addr:street": "Colombo-Kandy Road",
+        "amenity": "hospital",
+        "name": "Suwasewana Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6215994,
+          7.2819521
+        ]
+      },
+      "id": "node/4089673111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235158961",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gallinda Base Hospital",
+        "name:si": "ගල්ලිඳ මුලික රෝහල"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2678824,
+          6.2451002
+        ]
+      },
+      "id": "node/4235158961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244114941",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Western Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8841488,
+          6.913006
+        ]
+      },
+      "id": "node/4244114941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254145900",
+        "addr:city": "Nilaveli",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1929629,
+          8.6814799
+        ]
+      },
+      "id": "node/4254145900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4265986683",
+        "amenity": "hospital",
+        "name": "Girandurukotte Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0190559,
+          7.4693747
+        ]
+      },
+      "id": "node/4265986683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271220164",
+        "amenity": "hospital",
+        "name": "hiripitiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3790486,
+          7.6532267
+        ]
+      },
+      "id": "node/4271220164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4331943023",
+        "amenity": "hospital",
+        "name": "District Hospital Minuwangoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9563284,
+          7.1725525
+        ]
+      },
+      "id": "node/4331943023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350798591",
+        "amenity": "hospital",
+        "name": "Bandaranayake Private Hospital",
+        "phone": "0332282296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.111786,
+          7.126219
+        ]
+      },
+      "id": "node/4350798591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361510689",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2475954,
+          6.0202465
+        ]
+      },
+      "id": "node/4361510689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373836089",
+        "amenity": "hospital",
+        "name:en": "Prabodha Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6758569,
+          7.2919632
+        ]
+      },
+      "id": "node/4373836089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405229473",
+        "amenity": "hospital",
+        "name": "Divisional Hospital Vidathalthivu",
+        "name:ta": "பிரதேச வைத்தியசாலை விடத்தல்தீவு"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0655415,
+          9.0109302
+        ]
+      },
+      "id": "node/4405229473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405236389",
+        "amenity": "hospital",
+        "name": "Divisional Hospital Adampan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9966791,
+          8.943329
+        ]
+      },
+      "id": "node/4405236389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405536098",
+        "addr:street": "Batumula Rd",
+        "amenity": "hospital",
+        "name": "Batumulla Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9369035,
+          7.4142948
+        ]
+      },
+      "id": "node/4405536098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405856550",
+        "amenity": "hospital",
+        "name": "Divisional Hospital Murunkan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0378205,
+          8.8366766
+        ]
+      },
+      "id": "node/4405856550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428987893",
+        "amenity": "hospital",
+        "name": "Narampanawa Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7319772,
+          7.3436413
+        ]
+      },
+      "id": "node/4428987893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4430211089",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Divisional Hospital Kothmale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6854689,
+          7.062514
+        ]
+      },
+      "id": "node/4430211089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443856594",
+        "addr:city": "Bogawantalawa",
+        "addr:street": "Norwood-Bogawantalawa Road",
+        "amenity": "hospital",
+        "name": "Divisional Hospital Bogawanthalawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6784721,
+          6.794878
+        ]
+      },
+      "id": "node/4443856594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4443922076",
+        "amenity": "hospital",
+        "name": "Agarapatana Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6852925,
+          6.8701143
+        ]
+      },
+      "id": "node/4443922076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451525458",
+        "amenity": "hospital",
+        "name": "Pussellawa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6252466,
+          7.1162933
+        ]
+      },
+      "id": "node/4451525458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454568727",
+        "amenity": "hospital",
+        "name": "Base Hospital Mallavi",
+        "name:ta": "மல்லாவி ஆதார வைத்தியசாலை"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3087492,
+          9.1346083
+        ]
+      },
+      "id": "node/4454568727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4481217105",
+        "amenity": "hospital",
+        "name": "Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6137895,
+          5.9483687
+        ]
+      },
+      "id": "node/4481217105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515019298",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5484357,
+          6.9062215
+        ]
+      },
+      "id": "node/4515019298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4595801052",
+        "addr:housenumber": "75",
+        "addr:street": "Kirula Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Western Dispensary",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su 08:00-14:00",
+        "operator": "Health Cursive Department, Colombo Municipal Council",
+        "phone": "0112582037",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8712782,
+          6.8926568
+        ]
+      },
+      "id": "node/4595801052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4631865301",
+        "amenity": "hospital",
+        "name": "Government Dispensery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.117468,
+          6.9767207
+        ]
+      },
+      "id": "node/4631865301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4653891140",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8647627,
+          6.8723658
+        ]
+      },
+      "id": "node/4653891140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4682730891",
+        "amenity": "hospital",
+        "name:en": "Hikkaduwa clinic",
+        "name:uk": "Лікарня"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0994826,
+          6.1407286
+        ]
+      },
+      "id": "node/4682730891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4704694322",
+        "addr:housenumber": "423",
+        "addr:street": "Galle Road",
+        "amenity": "hospital",
+        "check_date": "2022-10-18",
+        "email": "vcare@vasanhealthcare.lk",
+        "healthcare": "hospital",
+        "name": "Vasan Eye Care",
+        "name:en": "Vasan Eye Care",
+        "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-15:00; Su 08:00-13:00",
+        "operator:type": "private",
+        "phone": "+94 117 564 500",
+        "website": "https://www.vasanhealthcare.lk/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8530752,
+          6.9017271
+        ]
+      },
+      "id": "node/4704694322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4731459322",
+        "amenity": "hospital",
+        "name:en": "எலும்பு முறிவு சிகிச்சை நிலையம்"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0231452,
+          8.8141025
+        ]
+      },
+      "id": "node/4731459322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741171622",
+        "amenity": "hospital",
+        "name:en": "District Hospital Senarathpura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6278567,
+          7.4503257
+        ]
+      },
+      "id": "node/4741171622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741177121",
+        "amenity": "hospital",
+        "name": "District General Hospital Ampara",
+        "wikidata": "Q4748050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6892025,
+          7.29895
+        ]
+      },
+      "id": "node/4741177121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833926653",
+        "addr:city": "Galle",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Car Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2162355,
+          6.0365933
+        ]
+      },
+      "id": "node/4833926653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833926726",
+        "amenity": "hospital",
+        "name": "Dambagalla rural hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3750928,
+          6.9799565
+        ]
+      },
+      "id": "node/4833926726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884211665",
+        "addr:city": "Andapana",
+        "amenity": "hospital",
+        "name": "Kamburupitiya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5647207,
+          6.0957342
+        ]
+      },
+      "id": "node/4884211665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885968676",
+        "amenity": "hospital",
+        "name": "Keppetipola Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8743927,
+          6.8961677
+        ]
+      },
+      "id": "node/4885968676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4890143149",
+        "amenity": "hospital",
+        "name": "Ginigathhena Diivisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4893267,
+          6.9905174
+        ]
+      },
+      "id": "node/4890143149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4894390564",
+        "amenity": "hospital",
+        "name": "Udawalawa Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8151802,
+          6.422959
+        ]
+      },
+      "id": "node/4894390564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904980063",
+        "amenity": "hospital",
+        "name": "Galenbindunuwewa Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7170704,
+          8.2885862
+        ]
+      },
+      "id": "node/4904980063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907040922",
+        "amenity": "hospital",
+        "name:en": "Base Hospital Beliatta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7392932,
+          6.0507459
+        ]
+      },
+      "id": "node/4907040922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910764095",
+        "addr:city": "Dambulla",
+        "addr:street": "Kurunegala - Dambulla Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dambulla Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6487466,
+          7.8741635
+        ]
+      },
+      "id": "node/4910764095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4921735461",
+        "amenity": "hospital",
+        "name": "Lunugala District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2009194,
+          7.037552
+        ]
+      },
+      "id": "node/4921735461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4936849273",
+        "amenity": "hospital",
+        "name": "Maadipola Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5770925,
+          7.685545
+        ]
+      },
+      "id": "node/4936849273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4939070630",
+        "amenity": "hospital",
+        "name": "Kurunduwaththa Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5313918,
+          7.1287805
+        ]
+      },
+      "id": "node/4939070630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945471065",
+        "addr:city": "Nalanda",
+        "addr:street": "Jaffna - Kandy Road",
+        "amenity": "hospital",
+        "name": "Nalanda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6368594,
+          7.6646097
+        ]
+      },
+      "id": "node/4945471065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4946331206",
+        "amenity": "hospital",
+        "name": "Wilgamuwa Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9143335,
+          7.5403487
+        ]
+      },
+      "id": "node/4946331206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4986424414",
+        "amenity": "hospital",
+        "name": "Maraka Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9575018,
+          7.5871219
+        ]
+      },
+      "id": "node/4986424414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993702022",
+        "amenity": "hospital",
+        "name:en": "Government Hospital - Katuwana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6980836,
+          6.2677965
+        ]
+      },
+      "id": "node/4993702022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4993702925",
+        "amenity": "hospital",
+        "name:en": "Government Hospital - Middeniya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.763909,
+          6.2589936
+        ]
+      },
+      "id": "node/4993702925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019110507",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gomez PVT Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.20941,
+          6.954086
+        ]
+      },
+      "id": "node/5019110507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5030141284",
+        "addr:street": "Hettipola - Hasalaka Road",
+        "amenity": "hospital",
+        "name": "Divisional Hospital - Kolongoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9485962,
+          7.4715658
+        ]
+      },
+      "id": "node/5030141284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5124245208",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Boralanda Base Hospital",
+        "operator": "Government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8955211,
+          6.8295684
+        ]
+      },
+      "id": "node/5124245208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5124245209",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Bogahakumbura Base Hospital",
+        "operator": "Government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.875676,
+          6.8623086
+        ]
+      },
+      "id": "node/5124245209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138765246",
+        "addr:city": "Sigiriya",
+        "addr:street": "Sigiriya Road",
+        "addr:unit": "Kibissa",
+        "amenity": "hospital",
+        "name": "Sigiriya Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7321821,
+          7.9417419
+        ]
+      },
+      "id": "node/5138765246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160601972",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ankumbura Ayurweda Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5736346,
+          7.4360985
+        ]
+      },
+      "id": "node/5160601972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5173638392",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kandy Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6450197,
+          7.2910283
+        ]
+      },
+      "id": "node/5173638392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5176117555",
+        "addr:city": "Ambalangoda",
+        "addr:street": "Aluthwala Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Madampagama Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0638204,
+          6.2131626
+        ]
+      },
+      "id": "node/5176117555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5181352383",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Godahena Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5788187,
+          7.3999425
+        ]
+      },
+      "id": "node/5181352383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188232523",
+        "addr:street": "union place",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "Ratnam Private Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8576248,
+          6.9206251
+        ]
+      },
+      "id": "node/5188232523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5217490656",
+        "amenity": "hospital",
+        "name": "Aralaganwila Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1881513,
+          7.7878962
+        ]
+      },
+      "id": "node/5217490656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219301101",
+        "amenity": "hospital",
+        "name": "Owilikanda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.58734,
+          7.4612119
+        ]
+      },
+      "id": "node/5219301101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5248273022",
+        "amenity": "hospital",
+        "name:en": "Navy Hospital Welisara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9005354,
+          7.0188878
+        ]
+      },
+      "id": "node/5248273022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320624184",
+        "amenity": "hospital",
+        "name": "Rambukkana Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.395554,
+          7.3265329
+        ]
+      },
+      "id": "node/5320624184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5356102193",
+        "amenity": "hospital",
+        "name": "Mawathagama Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4480207,
+          7.4403955
+        ]
+      },
+      "id": "node/5356102193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377921579",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Lions Club Eye Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8761609,
+          6.9832212
+        ]
+      },
+      "id": "node/5377921579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5400935336",
+        "amenity": "hospital",
+        "name": "Uraniya District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1082277,
+          7.2362993
+        ]
+      },
+      "id": "node/5400935336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5435909721",
+        "amenity": "hospital",
+        "name": "Habarana Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7561797,
+          8.0384853
+        ]
+      },
+      "id": "node/5435909721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456012528",
+        "amenity": "hospital",
+        "name": "Medawala Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5663665,
+          7.357817
+        ]
+      },
+      "id": "node/5456012528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5623747063",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5599545,
+          7.915977
+        ]
+      },
+      "id": "node/5623747063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634795266",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "High Forest Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.840092,
+          7.0667315
+        ]
+      },
+      "id": "node/5634795266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5661757672",
+        "amenity": "hospital",
+        "name": "Hopton Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1976713,
+          6.9847243
+        ]
+      },
+      "id": "node/5661757672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5759109537",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1129261,
+          7.8930667
+        ]
+      },
+      "id": "node/5759109537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5803824055",
+        "amenity": "hospital",
+        "name:en": "District Hospital- Udadumbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8783298,
+          7.3191871
+        ]
+      },
+      "id": "node/5803824055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807374453",
+        "amenity": "hospital",
+        "name:en": "District Hospital-Galagedara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5245613,
+          7.3725053
+        ]
+      },
+      "id": "node/5807374453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807374554",
+        "amenity": "hospital",
+        "name:en": "Medical officer of Health Office- Galagedara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5251747,
+          7.3716547
+        ]
+      },
+      "id": "node/5807374554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5907970351",
+        "amenity": "hospital",
+        "name": "Katupotha Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1866005,
+          7.5336572
+        ]
+      },
+      "id": "node/5907970351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5968440712",
+        "amenity": "hospital",
+        "name": "Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3885883,
+          6.3327708
+        ]
+      },
+      "id": "node/5968440712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5973240867",
+        "amenity": "hospital",
+        "name": "Dambadeniya hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1376735,
+          7.3487704
+        ]
+      },
+      "id": "node/5973240867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6066663511",
+        "amenity": "hospital",
+        "name": "Primary Care Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5057539,
+          7.3258412
+        ]
+      },
+      "id": "node/6066663511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183173991",
+        "addr:city": "Hataraliyadda",
+        "addr:street": "Galagedara-Rambukkana Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hatharaliyadda Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4772566,
+          7.3427233
+        ]
+      },
+      "id": "node/6183173991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6183183898",
+        "addr:city": "Galagedara",
+        "addr:street": "Galagedara-Rambukkana Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital Galagedara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5243428,
+          7.3721084
+        ]
+      },
+      "id": "node/6183183898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6184437040",
+        "amenity": "hospital",
+        "name": "Theripehe Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9259072,
+          7.1205112
+        ]
+      },
+      "id": "node/6184437040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6185575100",
+        "amenity": "hospital",
+        "name": "Madulla Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9264195,
+          7.0537261
+        ]
+      },
+      "id": "node/6185575100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6236736780",
+        "amenity": "hospital",
+        "name": "Wellatha Rural Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0729245,
+          6.5701994
+        ]
+      },
+      "id": "node/6236736780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6268756985",
+        "amenity": "hospital",
+        "name:en": "ලය විරේක මධ්‍යස්ථානය",
+        "phone": "0662289279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5798523,
+          7.770675
+        ]
+      },
+      "id": "node/6268756985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495229525",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0784364,
+          6.3434554
+        ]
+      },
+      "id": "node/6495229525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515047516",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lanka Hospitals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8766451,
+          6.8884745
+        ]
+      },
+      "id": "node/6515047516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6536295719",
+        "amenity": "hospital",
+        "name": "M D.H. Jayawardana Divisional Hospital Nawagamuwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.014342,
+          6.9225061
+        ]
+      },
+      "id": "node/6536295719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542571795",
+        "amenity": "hospital",
+        "name": "Pallebedda Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7063831,
+          6.4831595
+        ]
+      },
+      "id": "node/6542571795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6579895565",
+        "addr:city": "Ganthuna",
+        "addr:postcode": "71222",
+        "addr:street": "Pallegama,",
+        "amenity": "hospital",
+        "description": "Government hospital with primary care unit",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Divisional Hospital Ganthuna",
+        "operator": "Government of Sri Lanka",
+        "phone": "+94 35 3953558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4005349,
+          7.133569
+        ]
+      },
+      "id": "node/6579895565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611417521",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kandy Nursing Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.64486,
+          7.291136
+        ]
+      },
+      "id": "node/6611417521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615719550",
+        "addr:city": "Colombo",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Free Dispensary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8649812,
+          6.9647924
+        ]
+      },
+      "id": "node/6615719550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631008087",
+        "addr:city": "Sri Jayawadhanapura Kotte",
+        "addr:housenumber": "139/7A",
+        "addr:street": "Pagoda Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rawana Arana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8990978,
+          6.8854297
+        ]
+      },
+      "id": "node/6631008087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657814469",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Body Doc Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9601667,
+          6.8955508
+        ]
+      },
+      "id": "node/6657814469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6702869774",
+        "addr:city": "Badulla",
+        "addr:street": "Badulla - Bandarawela Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Provincial General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0524343,
+          6.9916573
+        ]
+      },
+      "id": "node/6702869774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6754747985",
+        "addr:street": "Minuwangoda-Diwulapitiya Road",
+        "amenity": "hospital",
+        "name:en": "Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0113727,
+          7.2160191
+        ]
+      },
+      "id": "node/6754747985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7159759462",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3535125,
+          7.4994802
+        ]
+      },
+      "id": "node/7159759462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7159813015",
+        "amenity": "hospital",
+        "name": "deiyandara hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6010273,
+          6.1539661
+        ]
+      },
+      "id": "node/7159813015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7182096942",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Balasooriya Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8398902,
+          8.0237243
+        ]
+      },
+      "id": "node/7182096942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7196688790",
+        "addr:city": "Bingiriya",
+        "addr:street": "Chilaw-Wariyapola Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "District Hospital Bingiriya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9318919,
+          7.5983976
+        ]
+      },
+      "id": "node/7196688790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7205314153",
+        "amenity": "hospital",
+        "name": "Madolkele Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7331905,
+          7.3980322
+        ]
+      },
+      "id": "node/7205314153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7265765513",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "MOH Office - Pujapitiya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5907241,
+          7.3809646
+        ]
+      },
+      "id": "node/7265765513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682218677",
+        "addr:city": "Rathnapura",
+        "addr:street": "Inner Circular Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Corporative Channel Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4017812,
+          6.6832054
+        ]
+      },
+      "id": "node/7682218677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7781439399",
+        "amenity": "hospital",
+        "name": "Hiniduma Distric Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3223076,
+          6.3313532
+        ]
+      },
+      "id": "node/7781439399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7829346255",
+        "addr:city": "Colombo 08",
+        "addr:housenumber": "d/2/34",
+        "addr:postcode": "00800",
+        "addr:street": "Saranapala Himi Mawatha",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Air Force Hospital - Colombo",
+        "operator": "Sri Lanka Air Force",
+        "phone": "+94112441044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8833535,
+          6.9199498
+        ]
+      },
+      "id": "node/7829346255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7905128485",
+        "District": "Mannar District",
+        "amenity": "hospital",
+        "city": "Mannar",
+        "name": "District Ayurvedic Hospital, Mannar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.936943,
+          8.874437
+        ]
+      },
+      "id": "node/7905128485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7954026585",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "Provincial General Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0515802,
+          6.9920018
+        ]
+      },
+      "id": "node/7954026585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8307765317",
+        "amenity": "hospital",
+        "check_date": "2022-11-13",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Nawaloka specialist centre",
+        "opening_hours": "24/7",
+        "operator:type": "private",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8535362,
+          6.9202245
+        ]
+      },
+      "id": "node/8307765317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8326706066",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ABC HOSPITAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0766541,
+          6.7185924
+        ]
+      },
+      "id": "node/8326706066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8380640537",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Police Hospital - Kundasale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6822248,
+          7.2797312
+        ]
+      },
+      "id": "node/8380640537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8393934616",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arya Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3945651,
+          6.6893429
+        ]
+      },
+      "id": "node/8393934616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8400160771",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sirimavo Bandaranayake Government Ayurvedic Hospital",
+        "phone": "+94 45 222 8982"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.378143,
+          6.7111686
+        ]
+      },
+      "id": "node/8400160771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8588646125",
+        "addr:city": "Moratuwa",
+        "addr:street": "lunawa road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lunawa hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8775068,
+          6.7836657
+        ]
+      },
+      "id": "node/8588646125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594058059",
+        "addr:city": "Athurugiriya",
+        "addr:street": "Outer Circular Highway",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Seth ulpatha weda medura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.97843,
+          6.8814474
+        ]
+      },
+      "id": "node/8594058059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594262509",
+        "addr:city": "Mount Lavinia",
+        "addr:street": "Samudrasanna Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maharhishi Ayurveda Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8656752,
+          6.8303971
+        ]
+      },
+      "id": "node/8594262509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594965862",
+        "addr:city": "Kiribathgoda",
+        "addr:street": "Colombo - Kandy Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kiribathgoda hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9269836,
+          6.9776895
+        ]
+      },
+      "id": "node/8594965862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594968113",
+        "addr:city": "Wattala",
+        "addr:street": "Thelangapatha Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nightingale Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8917922,
+          6.9721839
+        ]
+      },
+      "id": "node/8594968113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594973278",
+        "addr:city": "Peliyagoda",
+        "addr:street": "Colombo - Kandy Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Oxford Lanka Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8875746,
+          6.9559333
+        ]
+      },
+      "id": "node/8594973278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8594986749",
+        "addr:city": "Mulleriyawa",
+        "addr:street": "Rajasinghe Mawatha",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Half Way Home Mulleriyawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9474219,
+          6.9222495
+        ]
+      },
+      "id": "node/8594986749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8595831008",
+        "addr:city": "Kandy",
+        "addr:street": "Gannoruwa Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Suwasevana hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5918036,
+          7.2734056
+        ]
+      },
+      "id": "node/8595831008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8606429587",
+        "addr:city": "Nawala",
+        "addr:street": "Nawala Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nawala Medical Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8872686,
+          6.886956
+        ]
+      },
+      "id": "node/8606429587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8606450117",
+        "addr:city": "Nawala",
+        "addr:street": "Vimala Vihara Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Diabetic Foot Care & Rehabilitation Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8873882,
+          6.8914282
+        ]
+      },
+      "id": "node/8606450117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8607505751",
+        "addr:city": "Nambuluwa",
+        "addr:street": "Papliwala Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Suwasewana Ayurvedic center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9754494,
+          6.8251147
+        ]
+      },
+      "id": "node/8607505751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8607512350",
+        "addr:city": "Mattegoda",
+        "addr:street": "Kirigampanuwa Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rohana wijayasiri wedamahatha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9787088,
+          6.8012348
+        ]
+      },
+      "id": "node/8607512350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8658907685",
+        "addr:city": "Pannipitiya",
+        "addr:street": "Borella Kottawa Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ranpatha Weda Madura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9485862,
+          6.8487554
+        ]
+      },
+      "id": "node/8658907685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9399892407",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mahananneriya District Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1767677,
+          7.9977404
+        ]
+      },
+      "id": "node/9399892407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9400769331",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Divisional Hospital Ambanpola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2420581,
+          7.9168413
+        ]
+      },
+      "id": "node/9400769331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9448962251",
+        "amenity": "hospital",
+        "name": "Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7048663,
+          7.3127506
+        ]
+      },
+      "id": "node/9448962251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740549811",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "old hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5214882,
+          6.8255699
+        ]
+      },
+      "id": "node/9740549811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9767295827",
+        "amenity": "hospital",
+        "name": "Ayurvedic Hospital,Kiliveddy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2857616,
+          8.3514924
+        ]
+      },
+      "id": "node/9767295827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9769345590",
+        "amenity": "hospital",
+        "name": "Kandenuwara General  Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6796789,
+          7.4494282
+        ]
+      },
+      "id": "node/9769345590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771132582",
+        "amenity": "hospital",
+        "name": "Medamahanuwara Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8151441,
+          7.2898434
+        ]
+      },
+      "id": "node/9771132582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771162663",
+        "addr:city": "Rattota",
+        "addr:postcode": "21400",
+        "addr:street": "Matale - Rattota - Pallegama Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare:speciality": "general",
+        "name": "Rattota Divisional Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6767853,
+          7.5184272
+        ]
+      },
+      "id": "node/9771162663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771220747",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "University Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5809241,
+          7.7983392
+        ]
+      },
+      "id": "node/9771220747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9771625020",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Valaichenai Base Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5338311,
+          7.9094977
+        ]
+      },
+      "id": "node/9771625020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776389408",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6036836,
+          6.8742319
+        ]
+      },
+      "id": "node/9776389408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776389411",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6048791,
+          6.873497
+        ]
+      },
+      "id": "node/9776389411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776850058",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5984059,
+          6.8896731
+        ]
+      },
+      "id": "node/9776850058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776850064",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5974926,
+          6.8883361
+        ]
+      },
+      "id": "node/9776850064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9777000034",
+        "amenity": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5972337,
+          6.8897109
+        ]
+      },
+      "id": "node/9777000034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9785764862",
+        "amenity": "hospital",
+        "name": "Downside Divisonal Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9250417,
+          6.9333693
+        ]
+      },
+      "id": "node/9785764862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9793173329",
+        "amenity": "hospital",
+        "name": "Weerasekara Aurwedha medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.869818,
+          6.8938109
+        ]
+      },
+      "id": "node/9793173329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9970637901",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Pat care Animal Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5700934,
+          7.1547138
+        ]
+      },
+      "id": "node/9970637901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9972579478",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lanka Medical"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5656001,
+          7.1553422
+        ]
+      },
+      "id": "node/9972579478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9991604797",
+        "addr:city": "Nildandahinna",
+        "addr:postcode": "22280",
+        "addr:street": "Morangahathenna Road",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Ayurweda Hospital Nildandahinna",
+        "not:operator:wikidata": "Q16147207",
+        "operator": "Ministry of Health",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8938924,
+          7.0834698
+        ]
+      },
+      "id": "node/9991604797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10030668800",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0668767,
+          6.6253422
+        ]
+      },
+      "id": "node/10030668800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10030733044",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.088663,
+          6.6137155
+        ]
+      },
+      "id": "node/10030733044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10115727873",
+        "addr:housenumber": "380",
+        "addr:street": "High Level Road",
+        "amenity": "hospital",
+        "branch": "Homagama",
+        "name": "Healan Hospital",
+        "phone": "+94 11 2857676;+94 71 6922443",
+        "website": "http://www.healanhospital.lk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9991655,
+          6.8407199
+        ]
+      },
+      "id": "node/10115727873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139130307",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "GLASSUGH A.A.DIVISION HOSPITAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7397239,
+          6.9436652
+        ]
+      },
+      "id": "node/10139130307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10139139602",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "NANUOYA HOSPITAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7444972,
+          6.942405
+        ]
+      },
+      "id": "node/10139139602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10150959135",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0679552,
+          6.6311352
+        ]
+      },
+      "id": "node/10150959135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10155823625",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sampur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2925642,
+          8.4812833
+        ]
+      },
+      "id": "node/10155823625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10162146096",
+        "amenity": "hospital",
+        "name": "bokkawala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5532062,
+          7.3929
+        ]
+      },
+      "id": "node/10162146096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10218912917",
+        "addr:street": "Waragoda Road",
+        "amenity": "hospital",
+        "email": "info@laksuwasahana.lk",
+        "name:en": "Lak suwa sahana",
+        "opening_hours": "24/7",
+        "phone": "0731399122;0761399089",
+        "website": "http://www.laksuwasahana.lk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9151086,
+          6.956163
+        ]
+      },
+      "id": "node/10218912917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10243221102",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Divisional Hospital - Lahugala",
+        "operator": "Ministry of Health, Nutrition and Indigenous Medicine",
+        "operator:type": "government",
+        "operator:wikidata": "Q16147207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7179159,
+          6.8779492
+        ]
+      },
+      "id": "node/10243221102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10247906260",
+        "amenity": "hospital",
+        "check_date": "2022-12-09",
+        "healthcare": "hospital",
+        "name": "Base Hospital Puttalam",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8388358,
+          8.0277811
+        ]
+      },
+      "id": "node/10247906260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10282826828",
+        "addr:city": "Madapatha",
+        "addr:housenumber": "16/1",
+        "addr:postcode": "10306",
+        "addr:street": "Ferry Road",
+        "amenity": "hospital",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general;blood_check",
+        "name": "Family Medical Centre",
+        "operator": "Dr Lakmali Hewa Wasalage",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9285909,
+          6.7632078
+        ]
+      },
+      "id": "node/10282826828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10294944051",
+        "addr:housenumber": "08",
+        "addr:street": "Elvitigala Mawatha",
+        "amenity": "hospital",
+        "check_date": "2023-01-09",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Army Hospital",
+        "opening_hours": "24/7",
+        "operator": "SL Army",
+        "operator:type": "military",
+        "phone": "+94 112 697 218",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.875833,
+          6.9000731
+        ]
+      },
+      "id": "node/10294944051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10578445503",
+        "amenity": "hospital",
+        "name": "Medi Sevana Private Hosepital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4451963,
+          7.2544273
+        ]
+      },
+      "id": "node/10578445503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10614985210",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Hospital, serunuwara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2997025,
+          8.3229365
+        ]
+      },
+      "id": "node/10614985210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10618470666",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9320067,
+          6.9663393
+        ]
+      },
+      "id": "node/10618470666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10783985525",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name:en": "COOP Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5400533,
+          5.9466474
+        ]
+      },
+      "id": "node/10783985525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839918583",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Central Camp Government Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7354717,
+          7.4149436
+        ]
+      },
+      "id": "node/10839918583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10936388555",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "base hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1957774,
+          7.2258011
+        ]
+      },
+      "id": "node/10936388555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10989218950",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0843247,
+          6.8109241
+        ]
+      },
+      "id": "node/10989218950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11018993428",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "City lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9081688,
+          6.7141921
+        ]
+      },
+      "id": "node/11018993428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11056066385",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Primary Medical Center - Damminna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2062726,
+          7.7377169
+        ]
+      },
+      "id": "node/11056066385"
+    }
+  ]
+}
