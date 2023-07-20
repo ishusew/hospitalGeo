@@ -1,0 +1,3156 @@
+[
+ {
+  "x": 79.8797172,
+  "y": 6.8945486,
+  "Name": "Asiri Surgical Hospital",
+  "_id": "node\/191815840",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8652189,
+  "y": 6.8952045,
+  "Name": "Joseph Fraser Memorial Hospital",
+  "_id": "node\/253022237",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "designation": "mother and baby",
+  "is_in": "Colombo, Colombo District, Western Province, Sri Lanka",
+  "wheelchair": "limited"
+ },
+ {
+  "x": 79.9729749,
+  "y": 6.7852045,
+  "Name": "Wethara District Hospital",
+  "_id": "node\/254367261",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Wethara",
+  "addr_street": "Colombo - Horana Road"
+ },
+ {
+  "x": 79.9261518,
+  "y": 6.8683337,
+  "Name": "Sri Jayawardenapura teaching hospital",
+  "_id": "node\/255179653",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.2161531,
+  "y": 6.0366488,
+  "Name": "Co-op Hospital",
+  "_id": "node\/310166807",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital",
+  "is_in": "Galle, Galle District, Southern Province, Sri Lanka"
+ },
+ {
+  "x": 80.2161505,
+  "y": 6.0358559,
+  "Name": "Asiri Hospital",
+  "_id": "node\/310166824",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital",
+  "is_in": "Galle, Galle District, Southern Province, Sri Lanka"
+ },
+ {
+  "x": 79.9285198,
+  "y": 6.9062331,
+  "Name": "Divisional Hospital Thalangama",
+  "_id": "node\/617214076",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9522616,
+  "y": 6.8468216,
+  "Name": "Pannipitiya Nursing Home",
+  "_id": "node\/617262855",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Pannipitiya",
+  "addr_street": "Pannipitiya-Malambe Road"
+ },
+ {
+  "x": 79.8856356,
+  "y": 6.9117052,
+  "Name": "Western Hospital",
+  "_id": "node\/618557052",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "addr_city": "colombo 08",
+  "addr_street": "Cotta Road",
+  "wikidata": "Q20047300"
+ },
+ {
+  "x": 80.650505,
+  "y": 7.8728249,
+  "Name": "Dambulla General Provincial Hospital",
+  "_id": "node\/618657478",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "name_en": "Dambulla Hospital",
+  "source": "GPS"
+ },
+ {
+  "x": 79.8671954,
+  "y": 6.9172436,
+  "Name": "Colombo General Hospital",
+  "_id": "node\/619735564",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9143409,
+  "y": 6.8546505,
+  "Name": "Nawinna Medicare Hospital",
+  "_id": "node\/619944442",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nawinna"
+ },
+ {
+  "x": 79.942918,
+  "y": 6.9247709,
+  "Name": "Mulleriyawa Hospital",
+  "_id": "node\/621183283",
+  "amenity": "hospital",
+  "emergency": 1
+ },
+ {
+  "x": 79.8912101,
+  "y": 6.9887373,
+  "Name": "Hemas Hospital",
+  "_id": "node\/621199761",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "wheelchair": "yes"
+ },
+ {
+  "x": 79.8768982,
+  "y": 6.98282,
+  "Name": "Hekitta Mental Hospital",
+  "_id": "node\/621201132",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "healthcare_speciality": "psychiatry"
+ },
+ {
+  "x": 79.8755142,
+  "y": 6.9828093,
+  "Name": "Leprosy Hospital",
+  "_id": "node\/621201133",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8773217,
+  "y": 6.8311854,
+  "Name": "Siddhalepa",
+  "_id": "node\/621908264",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8658056,
+  "y": 6.9420589,
+  "Name": "Sulaiman",
+  "_id": "node\/654172175",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8664157,
+  "y": 6.8607229,
+  "Name": "Dehiwala Medical Centre",
+  "_id": "node\/673927618",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8697567,
+  "y": 6.9139635,
+  "Name": "Maccarthy Private Hospital",
+  "_id": "node\/679004906",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8702449,
+  "y": 6.9198065,
+  "Name": "De Soysa Hospital for Women",
+  "_id": "node\/681802896",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "addr_city": "Colombo 10",
+  "addr_street": "Kynsey Road",
+  "addr_housenumber": "19",
+  "check_date": "11\/10\/2022 00:00:00",
+  "opening_hours": "24\/7",
+  "operator_type": "government"
+ },
+ {
+  "x": 79.9292155,
+  "y": 6.9838357,
+  "Name": "Kiribathgoda Base Hospital",
+  "_id": "node\/844674876",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9300631,
+  "y": 6.9808166,
+  "Name": "Lanka Pharmacy",
+  "_id": "node\/844679663",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.7803117,
+  "y": 6.9741095,
+  "Name": "Nuwara Eliya General Hospital",
+  "_id": "node\/873842128",
+  "amenity": "hospital",
+  "emergency": 1,
+  "addr_city": "Nuwara Eliya"
+ },
+ {
+  "x": 79.9165176,
+  "y": 6.9226177,
+  "Name": "IDH Hospital",
+  "_id": "node\/929115028",
+  "amenity": "hospital",
+  "note": "Now known as National Institute of Infectious Diseases"
+ },
+ {
+  "x": 79.8646684,
+  "y": 6.9251045,
+  "Name": "Dental Surgery",
+  "_id": "node\/976674824",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.2685667,
+  "y": 6.285,
+  "Name": "Base Hospital",
+  "_id": "node\/1105822178",
+  "amenity": "hospital",
+  "addr_city": "Thissamaharama"
+ },
+ {
+  "x": 79.861647,
+  "y": 7.3486769,
+  "Name": "Lunuwila Hospital",
+  "_id": "node\/1134759577",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8776831,
+  "y": 6.7840477,
+  "Name": "De Soysa Hospital",
+  "_id": "node\/1138325216",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.0583567,
+  "y": 6.9858583,
+  "Name": "Badulla Central Hospital",
+  "_id": "node\/1179885197",
+  "amenity": "hospital",
+  "emergency": 1
+ },
+ {
+  "x": 79.8497222,
+  "y": 7.2092833,
+  "Name": "Singer Mega",
+  "_id": "node\/1268340408",
+  "amenity": "hospital",
+  "addr_street": "Negombo-Colombo Road",
+  "name_en": "Nawaloka Hospital",
+  "phone": "0115777777",
+  "shop": "convenience"
+ },
+ {
+  "x": 80.0005285,
+  "y": 7.0906504,
+  "Name": "Arogya Gampaha",
+  "_id": "node\/1292992413",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.3664892,
+  "y": 7.0424521,
+  "Name": "Rural Hospital Halgolla",
+  "_id": "node\/1304839120",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8725351,
+  "y": 6.8872112,
+  "Name": "Park Hospital",
+  "_id": "node\/1369179914",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9029398,
+  "y": 7.0242496,
+  "Name": "Chest Hospital Welisara",
+  "_id": "node\/1370716555",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9206152,
+  "y": 7.0277745,
+  "Name": "Browns Hospital",
+  "_id": "node\/1370719663",
+  "amenity": "hospital",
+  "emergency": 1
+ },
+ {
+  "x": 79.9037391,
+  "y": 7.0412386,
+  "Name": "Kandana Base Hospital",
+  "_id": "node\/1370719682",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9227398,
+  "y": 7.023994,
+  "Name": "Ranwwiru Sewana Hospital",
+  "_id": "node\/1370722303",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8604707,
+  "y": 6.8957176,
+  "Name": "Dr Muhsin - Dental Clinic",
+  "_id": "node\/1378977879",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.870419,
+  "y": 6.9192775,
+  "Name": "Neurology Ward",
+  "_id": "node\/1378988156",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8696197,
+  "y": 6.9206887,
+  "Name": "Cardiac Ward",
+  "_id": "node\/1378988158",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8671977,
+  "y": 6.9186997,
+  "Name": "Accident Ward",
+  "_id": "node\/1378988163",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "check_date": "01\/01\/2023 00:00:00"
+ },
+ {
+  "x": 80.4189122,
+  "y": 5.9749081,
+  "_id": "node\/1427183461",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "addr_city": "Walana",
+  "name_en": "Weligama District Hospital",
+  "opening_hours": "24\/7"
+ },
+ {
+  "x": 80.042246,
+  "y": 6.8461319,
+  "Name": "Meegoda Ayurveda Hospital",
+  "_id": "node\/1463832354",
+  "amenity": "hospital",
+  "healthcare": "alternative",
+  "healthcare_speciality": "ayurveda"
+ },
+ {
+  "x": 79.8993102,
+  "y": 7.375189,
+  "_id": "node\/1477746216",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2162698,
+  "y": 6.0288675,
+  "_id": "node\/1497165127",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9286112,
+  "y": 6.8457107,
+  "Name": "Dental Institute",
+  "_id": "node\/1523693927",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Maharagama",
+  "addr_street": "High Level Road"
+ },
+ {
+  "x": 79.8536244,
+  "y": 7.2012053,
+  "Name": "Dissanayake Private Hospital Negombo",
+  "_id": "node\/1617955806",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4541208,
+  "y": 5.9531215,
+  "Name": "Rural Hospital",
+  "_id": "node\/1640241532",
+  "amenity": "hospital",
+  "addr_city": "Mirissa",
+  "addr_street": "Colombo -Matara Road"
+ },
+ {
+  "x": 79.9176997,
+  "y": 6.855884,
+  "Name": "Ayurveda Corporation",
+  "_id": "node\/1650226106",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nawinna"
+ },
+ {
+  "x": 79.9215162,
+  "y": 6.8507988,
+  "Name": "Nursing Home",
+  "_id": "node\/1650227458",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Wattegedara Junction",
+  "addr_street": "High Level Road"
+ },
+ {
+  "x": 79.92922,
+  "y": 6.8453097,
+  "Name": "Asia Hospital",
+  "_id": "node\/1662139981",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Maharagama",
+  "addr_street": "High Level Road"
+ },
+ {
+  "x": 81.3005801,
+  "y": 6.7554682,
+  "Name": "Okkampitiya Rural Hospital",
+  "_id": "node\/1722822880",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8228174,
+  "y": 7.906233,
+  "Name": "Sooriya Medical Center",
+  "_id": "node\/1731515251",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9633446,
+  "y": 6.8124463,
+  "Name": "Katugampala Weda Madura",
+  "_id": "node\/1736854509",
+  "amenity": "hospital",
+  "emergency": 0
+ },
+ {
+  "x": 81.3388947,
+  "y": 6.4126218,
+  "Name": "District Hospital, Katharagama.",
+  "_id": "node\/1744023357",
+  "amenity": "hospital",
+  "addr_city": "Katharagama UP"
+ },
+ {
+  "x": 80.0896596,
+  "y": 6.8400553,
+  "Name": "Padukka Base Hospital",
+  "_id": "node\/1796819687",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.1789289,
+  "y": 6.6451235,
+  "Name": "Base Hospital",
+  "_id": "node\/1796922719",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.1794385,
+  "y": 6.6448198,
+  "Name": "Athura Hospital",
+  "_id": "node\/1796922986",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.261432,
+  "y": 7.0245178,
+  "Name": "Karawanella Base Hospital",
+  "_id": "node\/1805745347",
+  "amenity": "hospital",
+  "addr_city": "Karawanella SGP"
+ },
+ {
+  "x": 81.1224549,
+  "y": 6.1271953,
+  "Name": "Hambantota General Hospital",
+  "_id": "node\/1814595125",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.0220545,
+  "y": 6.1147035,
+  "Name": "Ambalantota Hospital",
+  "_id": "node\/1818503771",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9571343,
+  "y": 6.8055733,
+  "Name": "Diyatalawa Base Hospital",
+  "_id": "node\/1818771616",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.9899055,
+  "y": 6.9346877,
+  "Name": "Ettampitiya Base Hospital",
+  "_id": "node\/1819855346",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9629869,
+  "y": 6.5793909,
+  "Name": "Phillip Hospital",
+  "_id": "node\/1822725595",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.985238,
+  "y": 6.5630687,
+  "Name": "Teaching Hospital Kalutara",
+  "_id": "node\/1823709276",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6002986,
+  "y": 6.8548993,
+  "Name": "Dickoya Base Hospital",
+  "_id": "node\/1830413983",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5735309,
+  "y": 7.1639499,
+  "Name": "Suwa Bawana Hospital",
+  "_id": "node\/1830502778",
+  "amenity": "hospital",
+  "addr_city": "Gampola",
+  "addr_street": "Peradeniya-Badulla-Chenkaladi Road"
+ },
+ {
+  "x": 80.5015841,
+  "y": 7.1733007,
+  "Name": "Hemmathagama Hospital",
+  "_id": "node\/1831898507",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Hemmathagama"
+ },
+ {
+  "x": 80.564435,
+  "y": 7.1061708,
+  "Name": "Rural Hospital",
+  "_id": "node\/1831954351",
+  "amenity": "hospital",
+  "addr_city": "Ulapane",
+  "addr_street": "Gampola-Nawalapitiya Road"
+ },
+ {
+  "x": 79.8599713,
+  "y": 6.878155,
+  "Name": "Medi Clinic wellawatte",
+  "_id": "node\/1838419646",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "addr_street": "Galle Road",
+  "addr_housenumber": "36A",
+  "check_date": "29\/03\/2023 00:00:00",
+  "operator_type": "private",
+  "phone": "+94 112 593 959",
+  "email": "mediclinicwellawatta@gmail.com"
+ },
+ {
+  "x": 79.8651464,
+  "y": 6.9188122,
+  "Name": "National Eye Hospital",
+  "_id": "node\/1839459825",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8568546,
+  "y": 6.9211084,
+  "Name": "Ratnam's",
+  "_id": "node\/1839459849",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9939404,
+  "y": 6.9469426,
+  "Name": "Biyagama Hospital",
+  "_id": "node\/1843565879",
+  "amenity": "hospital",
+  "emergency": 1
+ },
+ {
+  "x": 80.6018991,
+  "y": 5.9637929,
+  "_id": "node\/1846323739",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2378677,
+  "y": 7.2950405,
+  "Name": "Wanniarachchi Medical Center",
+  "_id": "node\/1856812558",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2824677,
+  "y": 7.8235267,
+  "Name": "Mahawa Base Hospital",
+  "_id": "node\/1867157681",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.5421294,
+  "y": 7.2262613,
+  "Name": "Inginiyagala Divisional Hospital",
+  "_id": "node\/1877385268",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6980832,
+  "y": 6.1473289,
+  "Name": "Walasmulla",
+  "_id": "node\/1932028147",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6684374,
+  "y": 6.2067106,
+  "Name": "Kirama",
+  "_id": "node\/1933478833",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.1524924,
+  "y": 6.9335724,
+  "Name": "District Hospital Passara",
+  "_id": "node\/1945644723",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.0486572,
+  "y": 6.8740488,
+  "Name": "Medical Center",
+  "_id": "node\/1960904428",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.9907893,
+  "y": 7.3261607,
+  "Name": "Mahiyanganaya Base Hospital",
+  "_id": "node\/1974694453",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.125702,
+  "y": 7.6555111,
+  "Name": "Kobeigane Base Hospital",
+  "_id": "node\/1976145973",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2064789,
+  "y": 7.4312722,
+  "Name": "Hospital Narammala",
+  "_id": "node\/1977820865",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2125944,
+  "y": 7.4325701,
+  "Name": "Ayurweda Hospital Narammala",
+  "_id": "node\/1977820889",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8913231,
+  "y": 6.8685486,
+  "Name": "Nugegoda Nursing Home",
+  "_id": "node\/1978801477",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nugegoda"
+ },
+ {
+  "x": 80.5960427,
+  "y": 8.044023,
+  "Name": "Kekirawa District Hospital",
+  "_id": "node\/1981147412",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5098112,
+  "y": 8.3547478,
+  "Name": "Mihintale district Hospital",
+  "_id": "node\/1981159943",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9290176,
+  "y": 6.8920418,
+  "Name": "Asiri Laboratory",
+  "_id": "node\/1988112233",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.0110016,
+  "y": 6.7879708,
+  "Name": "Divisional Hospital",
+  "_id": "node\/1993203085",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.3974002,
+  "y": 6.5306079,
+  "Name": "Base Hospital",
+  "_id": "node\/1994693274",
+  "amenity": "hospital",
+  "addr_city": "Kalawana"
+ },
+ {
+  "x": 80.3924992,
+  "y": 6.6871447,
+  "Name": "Ratnapura Teaching Hospital",
+  "_id": "node\/1994920168",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "website": "http:\/\/thratnapura.health.gov.lk\/"
+ },
+ {
+  "x": 81.3555798,
+  "y": 7.5309537,
+  "Name": "Mahaoya Base Hospital",
+  "_id": "node\/2001999417",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8559089,
+  "y": 6.9164093,
+  "Name": "Colombo Friend-in-Need Society",
+  "_id": "node\/2026668068",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.7681614,
+  "y": 6.9723493,
+  "Name": "Ideal Hospital",
+  "_id": "node\/2035811627",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nuwara Eliya"
+ },
+ {
+  "x": 80.818241,
+  "y": 6.9951992,
+  "Name": "Kandapola Hospital",
+  "_id": "node\/2035855678",
+  "amenity": "hospital",
+  "addr_city": "Kandapola"
+ },
+ {
+  "x": 80.5981261,
+  "y": 7.266409,
+  "Name": "Peradeniya Teaching Hospital",
+  "_id": "node\/2087548638",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8723122,
+  "y": 6.9215796,
+  "Name": "Medicare",
+  "_id": "node\/2094306206",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.880517,
+  "y": 6.9139244,
+  "Name": "Borella Private Hospital",
+  "_id": "node\/2094344643",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Borella",
+  "addr_street": "Kotta Road"
+ },
+ {
+  "x": 79.894408,
+  "y": 6.9333964,
+  "Name": "YMBA Hospital",
+  "_id": "node\/2096452649",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital",
+  "addr_city": "Kolonnawa"
+ },
+ {
+  "x": 79.9923651,
+  "y": 6.8469074,
+  "Name": "Homagama Base Hospital",
+  "_id": "node\/2100972630",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "addr_city": "Homagama",
+  "addr_street": "Malapalla Road"
+ },
+ {
+  "x": 80.5716613,
+  "y": 7.7606317,
+  "Name": "Galewela Base Hospital",
+  "_id": "node\/2112572119",
+  "amenity": "hospital",
+  "addr_city": "Galewela",
+  "addr_street": "Kurunegala-Dambulla Road",
+  "name_en": "Galewela hospital gov"
+ },
+ {
+  "x": 79.9123243,
+  "y": 6.927259,
+  "Name": "Lions Eye Hospital",
+  "_id": "node\/2124720725",
+  "amenity": "hospital",
+  "addr_city": "Gothatuwa"
+ },
+ {
+  "x": 80.4075065,
+  "y": 6.835309,
+  "Name": "Erathna Rural Hospital",
+  "_id": "node\/2146223914",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4027324,
+  "y": 6.6874477,
+  "Name": "Coop medical Centre",
+  "_id": "node\/2151514476",
+  "amenity": "hospital",
+  "addr_city": "Rathnapura",
+  "addr_street": "Bus Stand Road"
+ },
+ {
+  "x": 80.3743171,
+  "y": 6.3796996,
+  "Name": "Rural Hospital",
+  "_id": "node\/2155827557",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5682703,
+  "y": 6.3575453,
+  "Name": "Deniyaya Hospital",
+  "_id": "node\/2176700458",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5223857,
+  "y": 6.3298078,
+  "Name": "Pallegama Rural Hospital",
+  "_id": "node\/2176940719",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9045308,
+  "y": 8.0468473,
+  "Name": "Minneriya Ayurveda Hospital",
+  "_id": "node\/2285207608",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9675466,
+  "y": 8.1430794,
+  "Name": "Medirigiriya Base Hospital",
+  "_id": "node\/2286402631",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.2464883,
+  "y": 7.9485257,
+  "Name": "Welikanda",
+  "_id": "node\/2303597213",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.113417,
+  "y": 7.9046279,
+  "Name": "Manampitiya Hospital",
+  "_id": "node\/2304485570",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8151703,
+  "y": 7.289746,
+  "Name": "Medamahanuwara Divisional Hospital",
+  "_id": "node\/2315533313",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2301666,
+  "y": 7.2981194,
+  "Name": "Alawwa District Hospital",
+  "_id": "node\/2323963211",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7644417,
+  "y": 7.3077388,
+  "Name": "Teldeniya District Base Hospital",
+  "_id": "node\/2334181719",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7348435,
+  "y": 7.2942769,
+  "Name": "Digana",
+  "_id": "node\/2335114652",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4587191,
+  "y": 7.1773575,
+  "Name": "Aranayake Hospital",
+  "_id": "node\/2338860270",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.905888,
+  "y": 6.7057665,
+  "Name": "Panadura Nursing Home",
+  "_id": "node\/2339237715",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9082865,
+  "y": 6.7180466,
+  "Name": "Suwa Medura",
+  "_id": "node\/2339437466",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.4497877,
+  "y": 7.2510461,
+  "Name": "OSRO Hospital",
+  "_id": "node\/2340164320",
+  "amenity": "hospital",
+  "addr_city": "Mawanella"
+ },
+ {
+  "x": 80.4458988,
+  "y": 7.2536811,
+  "Name": "Base Hospital Mawanella",
+  "_id": "node\/2340165236",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "addr_city": "Mawanella",
+  "comment": "no helipad"
+ },
+ {
+  "x": 80.7070344,
+  "y": 7.2714146,
+  "Name": "Pallekele Ayurveda Hospital",
+  "_id": "node\/2342937786",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "alternative",
+  "healthcare_speciality": "ayurveda"
+ },
+ {
+  "x": 80.6676499,
+  "y": 7.298646,
+  "Name": "Yakghapitiya Divisional Hospital",
+  "_id": "node\/2343111695",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.391441,
+  "y": 6.0378367,
+  "Name": "Imaduwa Hospital",
+  "_id": "node\/2370163010",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6893614,
+  "y": 7.2511826,
+  "Name": "Thalathuoya Hospital",
+  "_id": "node\/2388337545",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4940509,
+  "y": 8.7483331,
+  "Name": "Abisha Hospital",
+  "_id": "node\/2410576900",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.162144,
+  "y": 6.741412,
+  "Name": "Ingiriya District Hospital",
+  "_id": "node\/2426388316",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9220455,
+  "y": 7.0316559,
+  "Name": "Leesons Hospital",
+  "_id": "node\/2479890347",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8904325,
+  "y": 6.9381972,
+  "Name": "District Hospitel Uva-Paranagama",
+  "_id": "node\/2524559604",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9308043,
+  "y": 6.8449276,
+  "Name": "Odent Dental Surgery",
+  "_id": "node\/2552015799",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Maharagama",
+  "addr_street": "High Level Road",
+  "note": "Open on Monday to Saturday 5pm to 8pm",
+  "phone": "0773888693",
+  "addr_housename": "1\/135, Avissawella Road, Maharagama"
+ },
+ {
+  "x": 80.1857597,
+  "y": 7.2918223,
+  "Name": "Thalwaththa Hospital",
+  "_id": "node\/2558644076",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.1779798,
+  "y": 7.3372132,
+  "Name": "Public Dispensary",
+  "_id": "node\/2559270088",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8780478,
+  "y": 6.783547,
+  "Name": "Lunawa Aryuweda Hospital",
+  "_id": "node\/2588694138",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.249527,
+  "y": 6.3023047,
+  "Name": "Primary Health Care Centre",
+  "_id": "node\/2610271942",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.4016012,
+  "y": 6.2882861,
+  "Name": "Rural Hospital",
+  "_id": "node\/2610318045",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8800558,
+  "y": 6.2343884,
+  "Name": "Rural Hospital",
+  "_id": "node\/2610405672",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9106933,
+  "y": 6.7111418,
+  "Name": "Sachitra Hospital",
+  "_id": "node\/2708944796",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "addr_city": "Panadura",
+  "addr_street": "Panadura-Rathnapura",
+  "addr_housenumber": "76",
+  "note": "Experience the peace of mind that modern medical technology can provide with the therapeutic and loving care of our well qualified, experienced and dedicated Doctors and Nursing Staff.",
+  "phone": "+94382240425",
+  "website": "http:\/\/www.sachitrahospitals.com\/",
+  "addr_postcode": "12500",
+  "ele": 7,
+  "facilities": "OPD, ETU, ICU, Theatre, Lab, Physiotherapy, Scan, X-Ray, Pahrmacy, Car Park"
+ },
+ {
+  "x": 80.599262,
+  "y": 7.266579,
+  "Name": "Peradeniya Dental Hospital",
+  "_id": "node\/2828331566",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.2458432,
+  "y": 7.9476358,
+  "Name": "Welikanda",
+  "_id": "node\/2831618989",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.0416685,
+  "y": 7.5661087,
+  "Name": "Ayurveda Central Hospital",
+  "_id": "node\/2831625523",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.0544144,
+  "y": 6.2390668,
+  "Name": "Roseth Hospital",
+  "_id": "node\/2900426653",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Ambalangoda",
+  "addr_street": "Ambalangoda -Batapola Road"
+ },
+ {
+  "x": 80.4034419,
+  "y": 6.6821753,
+  "Name": "Aloka Hospital",
+  "_id": "node\/2901379801",
+  "amenity": "hospital",
+  "addr_city": "Rathnapura",
+  "addr_street": "Inner Circular Road"
+ },
+ {
+  "x": 80.3944372,
+  "y": 6.6909091,
+  "Name": "Singhe Hospital",
+  "_id": "node\/2901418998",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Rathnapura",
+  "addr_street": "Colombo - Ratnapura Road",
+  "website": "https:\/\/www.singhehospital.com\/"
+ },
+ {
+  "x": 80.5007265,
+  "y": 6.0084654,
+  "Name": "Akkurugoda MOH",
+  "_id": "node\/2902312873",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.920467,
+  "y": 6.9020699,
+  "Name": "ayurweda hospital",
+  "_id": "node\/2905118777",
+  "amenity": "hospital",
+  "emergency": 0
+ },
+ {
+  "x": 80.0413396,
+  "y": 6.2934953,
+  "_id": "node\/2910213594",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.4113074,
+  "y": 8.3265775,
+  "Name": "Aurvedic Center",
+  "_id": "node\/2910216436",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9616363,
+  "y": 7.0685704,
+  "Name": "Dental Surgeon Private",
+  "_id": "node\/2910342845",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5928891,
+  "y": 7.2135973,
+  "_id": "node\/2913891490",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9087119,
+  "y": 6.9090322,
+  "Name": "Welimada Base Hospital",
+  "_id": "node\/2915434805",
+  "amenity": "hospital",
+  "emergency": 1,
+  "source": "survey"
+ },
+ {
+  "x": 80.1804779,
+  "y": 6.1614238,
+  "Name": "Baddegama Hospital",
+  "_id": "node\/2921319349",
+  "amenity": "hospital",
+  "emergency": 1,
+  "designation": "Government"
+ },
+ {
+  "x": 79.9787224,
+  "y": 7.3992228,
+  "Name": "Kandanegedara Hospital",
+  "_id": "node\/2964699767",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8433486,
+  "y": 6.3256369,
+  "Name": "Indika Pharmacy",
+  "_id": "node\/2980887901",
+  "amenity": "hospital",
+  "addr_city": "Embilipitiya",
+  "addr_street": "Hospital Road",
+  "addr_housenumber": "14"
+ },
+ {
+  "x": 80.100181,
+  "y": 7.0324364,
+  "Name": "Radawana Divisional Hospital",
+  "_id": "node\/3031566819",
+  "amenity": "hospital",
+  "addr_street": "Weliweriya-Kirindiwela Road"
+ },
+ {
+  "x": 80.2643708,
+  "y": 6.8482459,
+  "Name": "Base Hospital",
+  "_id": "node\/3090091975",
+  "amenity": "hospital",
+  "addr_city": "Eheliyagoda"
+ },
+ {
+  "x": 80.5250197,
+  "y": 5.9541051,
+  "Name": "bsr",
+  "_id": "node\/3098340244",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8162356,
+  "y": 6.4252834,
+  "Name": "Udawalawe Rural Hospital",
+  "_id": "node\/3145014128",
+  "amenity": "hospital",
+  "addr_city": "Udawalawe"
+ },
+ {
+  "x": 80.8575621,
+  "y": 6.3310635,
+  "Name": "Green Medicare Hospital",
+  "_id": "node\/3147175363",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Embilipitiya"
+ },
+ {
+  "x": 80.2723446,
+  "y": 6.8881022,
+  "Name": "Panawala Ayurveda Hospital",
+  "_id": "node\/3154127034",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5701698,
+  "y": 7.4404367,
+  "Name": "Ankumbura Divitional Hospital",
+  "_id": "node\/3213933933",
+  "amenity": "hospital",
+  "addr_city": "Ankumbura"
+ },
+ {
+  "x": 80.5352495,
+  "y": 7.0528085,
+  "Name": "District General Hospital",
+  "_id": "node\/3215354223",
+  "amenity": "hospital",
+  "addr_city": "Nawalapitiya",
+  "addr_street": "Nawalapitiya - Dimbula Road"
+ },
+ {
+  "x": 80.345705,
+  "y": 7.2474986,
+  "Name": "Teaching Hospital Kegalle",
+  "_id": "node\/3220016706",
+  "amenity": "hospital",
+  "emergency": 1,
+  "designation": "Teaching Hospital Kegalle",
+  "addr_city": "Kegalle",
+  "addr_housename": "Teaching Hospital Kegalle"
+ },
+ {
+  "x": 81.8074135,
+  "y": 7.4174236,
+  "Name": "Chenaikudiruppu Base Hospital",
+  "_id": "node\/3331326390",
+  "amenity": "hospital",
+  "addr_city": "Kalmunai"
+ },
+ {
+  "x": 81.8111066,
+  "y": 7.4327928,
+  "Name": "Divisional Hospital",
+  "_id": "node\/3331351770",
+  "amenity": "hospital",
+  "addr_city": "Maruthamunai"
+ },
+ {
+  "x": 81.8116993,
+  "y": 7.4667411,
+  "Name": "Base Hospital",
+  "_id": "node\/3333281914",
+  "amenity": "hospital",
+  "addr_city": "Periyakallar",
+  "name_en": "Divisional Hospital"
+ },
+ {
+  "x": 80.796872,
+  "y": 6.0227057,
+  "Name": "Base Hospital",
+  "_id": "node\/3377388729",
+  "amenity": "hospital",
+  "addr_city": "Tangalle"
+ },
+ {
+  "x": 79.9032631,
+  "y": 8.9827374,
+  "Name": "District General Hospital",
+  "_id": "node\/3424999527",
+  "amenity": "hospital",
+  "emergency": 0,
+  "addr_city": "Mannar",
+  "addr_street": "Thalvupadu - Mannar Rd",
+  "wikidata": "Q6750753"
+ },
+ {
+  "x": 80.5466443,
+  "y": 5.948234,
+  "Name": "Mohotti Private Hostpital",
+  "_id": "node\/3455205573",
+  "amenity": "hospital",
+  "addr_city": "Matara",
+  "addr_street": "Sri Karathota nahimi Mawath"
+ },
+ {
+  "x": 80.5385787,
+  "y": 5.9487624,
+  "Name": "Asiri Hospital (PVT)",
+  "_id": "node\/3455219378",
+  "amenity": "hospital",
+  "addr_city": "Matara",
+  "addr_street": "Anagarika Dharmapala Mawatha"
+ },
+ {
+  "x": 80.1581676,
+  "y": 6.5757017,
+  "Name": "Pimbura Distric Hospital",
+  "_id": "node\/3521708167",
+  "amenity": "hospital",
+  "emergency": 1
+ },
+ {
+  "x": 80.0260558,
+  "y": 7.1212801,
+  "Name": "Bemmulla Clinic",
+  "_id": "node\/3537669661",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4959268,
+  "y": 5.9509878,
+  "Name": "Medagoda",
+  "_id": "node\/3590070473",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8925778,
+  "y": 7.0785193,
+  "Name": "Nildandahinna Genaral Hospital",
+  "_id": "node\/3590215199",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5919817,
+  "y": 6.2018314,
+  "Name": "Mawarala Hospital",
+  "_id": "node\/3633843118",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.0283613,
+  "y": 7.6308071,
+  "Name": "Central Dispensary",
+  "_id": "node\/3634924475",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.312435,
+  "y": 8.6591013,
+  "Name": "Chettikulam Hospital",
+  "_id": "node\/3665944325",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8276202,
+  "y": 7.7887782,
+  "Name": "Divisional Hospital",
+  "_id": "node\/3691169013",
+  "amenity": "hospital",
+  "addr_city": "Mundalama"
+ },
+ {
+  "x": 80.8997815,
+  "y": 6.1652567,
+  "Name": "Angunukolapeless",
+  "_id": "node\/3699456580",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8519954,
+  "y": 7.0929247,
+  "_id": "node\/3710409771",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.2165098,
+  "y": 6.036438,
+  "Name": "Thasim Chest Clinic",
+  "_id": "node\/3727831288",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6321242,
+  "y": 7.3124054,
+  "Name": "Kandy Private Hospital",
+  "_id": "node\/3729663235",
+  "amenity": "hospital",
+  "wheelchair": "yes"
+ },
+ {
+  "x": 80.4712432,
+  "y": 7.0819686,
+  "Name": "Dolosbage Divisional Hospital",
+  "_id": "node\/3753926197",
+  "amenity": "hospital",
+  "addr_city": "Dolosbage",
+  "addr_street": "Gampola-Dolosbage Road"
+ },
+ {
+  "x": 80.3671949,
+  "y": 8.7524912,
+  "Name": "Poovarasankulam Divisional Hospital",
+  "_id": "node\/3765219866",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.765182,
+  "y": 6.1450937,
+  "Name": "Hospital",
+  "_id": "node\/3769921344",
+  "amenity": "hospital",
+  "addr_city": "Weeraketiya",
+  "addr_street": "Tangalle - Weeraketiya Road"
+ },
+ {
+  "x": 80.7437221,
+  "y": 6.0884432,
+  "_id": "node\/3770559783",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.0529372,
+  "y": 7.0661314,
+  "Name": "Aurvedic Dispensary",
+  "_id": "node\/3778409802",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6047234,
+  "y": 7.1612264,
+  "Name": "Kahawatte Rural Hospital",
+  "_id": "node\/3798153917",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5266415,
+  "y": 8.6794289,
+  "Name": "Divisional Hospital - Sithaparapuram",
+  "_id": "node\/3801578860",
+  "amenity": "hospital",
+  "ele": 120
+ },
+ {
+  "x": 81.0469431,
+  "y": 7.6694499,
+  "Name": "New City Channeling Centre",
+  "_id": "node\/3822963761",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9141857,
+  "y": 6.9730561,
+  "Name": "General",
+  "_id": "node\/3842184472",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "colombo"
+ },
+ {
+  "x": 80.3289831,
+  "y": 7.0532237,
+  "Name": "gampaha",
+  "_id": "node\/3842184774",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4706225,
+  "y": 8.0919436,
+  "Name": "Senapura (Kagama) Rural Hospital",
+  "_id": "node\/3867347215",
+  "amenity": "hospital",
+  "phone": "025 2 245162"
+ },
+ {
+  "x": 80.8807052,
+  "y": 6.8312378,
+  "Name": "Rural Ayurvedic Hospital",
+  "_id": "node\/3874862041",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7656051,
+  "y": 6.9779048,
+  "Name": "Co-operative Hospital",
+  "_id": "node\/3880396357",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.7673681,
+  "y": 6.974379,
+  "Name": "Medisi Channel Centre",
+  "_id": "node\/3880398627",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.1354938,
+  "y": 7.4332264,
+  "Name": "Rukkasagara Ayuruwedic hospital",
+  "_id": "node\/3889586527",
+  "amenity": "hospital",
+  "operator": "Department of health"
+ },
+ {
+  "x": 81.052442,
+  "y": 6.9904156,
+  "Name": "NTS Badulla",
+  "_id": "node\/3907647596",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.009878,
+  "y": 7.0219408,
+  "Name": "ayurvedic hospital",
+  "_id": "node\/3918017664",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.0625085,
+  "y": 6.2491338,
+  "Name": "Ambalangoda Districut Hospital",
+  "_id": "node\/3925585410",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.4470247,
+  "y": 9.1280175,
+  "Name": "Mankulam Base Hospital",
+  "_id": "node\/3926600649",
+  "amenity": "hospital",
+  "operator": "Ministry of Health"
+ },
+ {
+  "x": 80.0540939,
+  "y": 6.2384053,
+  "Name": "Hemas Hospital Laboratory",
+  "_id": "node\/3926651395",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5258698,
+  "y": 8.9646044,
+  "Name": "Puliyankulam Divisional Hospital",
+  "_id": "node\/3926842867",
+  "amenity": "hospital",
+  "addr_city": "Puliyankulam",
+  "addr_district": "Vauniya",
+  "dispensing": 1
+ },
+ {
+  "x": 80.6528729,
+  "y": 9.0537012,
+  "Name": "Divisional Hospital - Nedunkerny",
+  "_id": "node\/3926880521",
+  "amenity": "hospital",
+  "emergency": 1,
+  "addr_city": "Vavuniya",
+  "addr_province": "Northern",
+  "addr_suburb": "Nedunkerny",
+  "name_ta": "பிரதேச வைத்தியசாலை - நெடுங்கேணி"
+ },
+ {
+  "x": 80.4388746,
+  "y": 8.7605684,
+  "Name": "Auyuvedic Hospital Vavuniya ",
+  "_id": "node\/3931996584",
+  "amenity": "hospital",
+  "emergency": 0
+ },
+ {
+  "x": 80.4209895,
+  "y": 8.7059888,
+  "Name": "Pavatkulam Divisional Hospital",
+  "_id": "node\/3967289227",
+  "amenity": "hospital",
+  "name_ta": "பாவற்குளம் பிரதேச வைத்தியசாலை"
+ },
+ {
+  "x": 80.3701343,
+  "y": 8.6016568,
+  "Name": "Neriyakulam Divisional Hospital",
+  "_id": "node\/3983331257",
+  "amenity": "hospital",
+  "name_ta": "நேரியகுளம் பிரதேச வைத்திய சாலை"
+ },
+ {
+  "x": 81.7135553,
+  "y": 7.2498267,
+  "Name": "Divisional Hospital",
+  "_id": "node\/3992483614",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.705658,
+  "y": 7.3463532,
+  "Name": "Makkanigama Hospital",
+  "_id": "node\/4039495741",
+  "amenity": "hospital",
+  "addr_city": "Kundasale",
+  "addr_street": "Katugastota-Bambarella Road"
+ },
+ {
+  "x": 80.575266,
+  "y": 6.5786992,
+  "Name": "Base Hospital",
+  "_id": "node\/4045200420",
+  "amenity": "hospital",
+  "addr_city": "Kahawatta",
+  "addr_street": "Pelmadulla - Embilipitiya - Nonagama Highway"
+ },
+ {
+  "x": 80.65651,
+  "y": 6.5018627,
+  "Name": "District Hospital",
+  "_id": "node\/4045295751",
+  "amenity": "hospital",
+  "addr_city": "Godakawela",
+  "addr_street": "Rathnapura - Embilipitiya Road"
+ },
+ {
+  "x": 80.614724,
+  "y": 6.4715878,
+  "Name": "Rakwana District Hospital",
+  "_id": "node\/4045303043",
+  "amenity": "hospital",
+  "addr_city": "Rakwana",
+  "addr_street": "Bulutota Road"
+ },
+ {
+  "x": 80.5133213,
+  "y": 7.2895042,
+  "Name": "Kotaligoda Hospital",
+  "_id": "node\/4068054466",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8661463,
+  "y": 6.9172706,
+  "Name": "Dental Ward (Colombo National Hospital)",
+  "_id": "node\/4077038318",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "dentist",
+  "wheelchair": "yes",
+  "addr_city": "Colombo 07",
+  "addr_street": "Ward Place",
+  "name_en": "National Dental Hospital (Teaching)",
+  "healthcare_speciality": "dentist;dentistry",
+  "check_date": "06\/03\/2023 00:00:00",
+  "opening_hours": "24\/7",
+  "operator_type": "government",
+  "internet_access": 0,
+  "payment_free": 1
+ },
+ {
+  "x": 79.8940656,
+  "y": 7.0750452,
+  "Name": "Jaela regional hospital",
+  "_id": "node\/4084471911",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6215994,
+  "y": 7.2819521,
+  "Name": "Suwasewana Hospital",
+  "_id": "node\/4089673111",
+  "amenity": "hospital",
+  "addr_city": "Kandy",
+  "addr_street": "Colombo-Kandy Road"
+ },
+ {
+  "x": 80.2678824,
+  "y": 6.2451002,
+  "Name": "Gallinda Base Hospital",
+  "_id": "node\/4235158961",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "name_si": "ගල්ලිඳ මුලික රෝහල"
+ },
+ {
+  "x": 79.8841488,
+  "y": 6.913006,
+  "Name": "Western Dispensary",
+  "_id": "node\/4244114941",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.1929629,
+  "y": 8.6814799,
+  "Name": "Divisional Hospital",
+  "_id": "node\/4254145900",
+  "amenity": "hospital",
+  "addr_city": "Nilaveli"
+ },
+ {
+  "x": 81.0190559,
+  "y": 7.4693747,
+  "Name": "Girandurukotte Hospital",
+  "_id": "node\/4265986683",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.3790486,
+  "y": 7.6532267,
+  "Name": "hiripitiya",
+  "_id": "node\/4271220164",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9563284,
+  "y": 7.1725525,
+  "Name": "District Hospital Minuwangoda",
+  "_id": "node\/4331943023",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.111786,
+  "y": 7.126219,
+  "Name": "Bandaranayake Private Hospital",
+  "_id": "node\/4350798591",
+  "amenity": "hospital",
+  "phone": "0332282296"
+ },
+ {
+  "x": 80.2475954,
+  "y": 6.0202465,
+  "_id": "node\/4361510689",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.6758569,
+  "y": 7.2919632,
+  "_id": "node\/4373836089",
+  "amenity": "hospital",
+  "name_en": "Prabodha Hospital"
+ },
+ {
+  "x": 80.0655415,
+  "y": 9.0109302,
+  "Name": "Divisional Hospital Vidathalthivu",
+  "_id": "node\/4405229473",
+  "amenity": "hospital",
+  "name_ta": "பிரதேச வைத்தியசாலை விடத்தல்தீவு"
+ },
+ {
+  "x": 79.9966791,
+  "y": 8.943329,
+  "Name": "Divisional Hospital Adampan",
+  "_id": "node\/4405236389",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9369035,
+  "y": 7.4142948,
+  "Name": "Batumulla Divisional Hospital",
+  "_id": "node\/4405536098",
+  "amenity": "hospital",
+  "addr_street": "Batumula Rd"
+ },
+ {
+  "x": 80.0378205,
+  "y": 8.8366766,
+  "Name": "Divisional Hospital Murunkan",
+  "_id": "node\/4405856550",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7319772,
+  "y": 7.3436413,
+  "Name": "Narampanawa Government Hospital",
+  "_id": "node\/4428987893",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6854689,
+  "y": 7.062514,
+  "Name": "Divisional Hospital Kothmale",
+  "_id": "node\/4430211089",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6784721,
+  "y": 6.794878,
+  "Name": "Divisional Hospital Bogawanthalawa",
+  "_id": "node\/4443856594",
+  "amenity": "hospital",
+  "addr_city": "Bogawantalawa",
+  "addr_street": "Norwood-Bogawantalawa Road"
+ },
+ {
+  "x": 80.6852925,
+  "y": 6.8701143,
+  "Name": "Agarapatana Divisional Hospital",
+  "_id": "node\/4443922076",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6252466,
+  "y": 7.1162933,
+  "Name": "Pussellawa Hospital",
+  "_id": "node\/4451525458",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.3087492,
+  "y": 9.1346083,
+  "Name": "Base Hospital Mallavi",
+  "_id": "node\/4454568727",
+  "amenity": "hospital",
+  "name_ta": "மல்லாவி ஆதார வைத்தியசாலை"
+ },
+ {
+  "x": 80.6137895,
+  "y": 5.9483687,
+  "Name": "Rural Hospital",
+  "_id": "node\/4481217105",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.5484357,
+  "y": 6.9062215,
+  "_id": "node\/4515019298",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8712782,
+  "y": 6.8926568,
+  "Name": "Western Dispensary",
+  "_id": "node\/4595801052",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "wheelchair": "limited",
+  "addr_street": "Kirula Road",
+  "addr_housenumber": "75",
+  "opening_hours": "Mo-Fr 08:00-17:00; Sa,Su 08:00-14:00",
+  "phone": "0112582037",
+  "operator": "Health Cursive Department, Colombo Municipal Council"
+ },
+ {
+  "x": 80.117468,
+  "y": 6.9767207,
+  "Name": "Government Dispensery",
+  "_id": "node\/4631865301",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8647627,
+  "y": 6.8723658,
+  "_id": "node\/4653891140",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.0994826,
+  "y": 6.1407286,
+  "_id": "node\/4682730891",
+  "amenity": "hospital",
+  "name_en": "Hikkaduwa clinic",
+  "name_uk": "Лікарня"
+ },
+ {
+  "x": 79.8530752,
+  "y": 6.9017271,
+  "Name": "Vasan Eye Care",
+  "_id": "node\/4704694322",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "addr_street": "Galle Road",
+  "name_en": "Vasan Eye Care",
+  "addr_housenumber": "423",
+  "check_date": "18\/10\/2022 00:00:00",
+  "opening_hours": "Mo-Fr 07:00-18:30; Sa 08:00-15:00; Su 08:00-13:00",
+  "operator_type": "private",
+  "phone": "+94 117 564 500",
+  "email": "vcare@vasanhealthcare.lk",
+  "website": "https:\/\/www.vasanhealthcare.lk\/"
+ },
+ {
+  "x": 80.0231452,
+  "y": 8.8141025,
+  "_id": "node\/4731459322",
+  "amenity": "hospital",
+  "name_en": "எலும்பு முறிவு சிகிச்சை நிலையம்"
+ },
+ {
+  "x": 81.6278567,
+  "y": 7.4503257,
+  "_id": "node\/4741171622",
+  "amenity": "hospital",
+  "name_en": "District Hospital Senarathpura"
+ },
+ {
+  "x": 81.6892025,
+  "y": 7.29895,
+  "Name": "District General Hospital Ampara",
+  "_id": "node\/4741177121",
+  "amenity": "hospital",
+  "wikidata": "Q4748050"
+ },
+ {
+  "x": 80.2162355,
+  "y": 6.0365933,
+  "Name": "Car Park",
+  "_id": "node\/4833926653",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Galle"
+ },
+ {
+  "x": 81.3750928,
+  "y": 6.9799565,
+  "Name": "Dambagalla rural hospital",
+  "_id": "node\/4833926726",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5647207,
+  "y": 6.0957342,
+  "Name": "Kamburupitiya Base Hospital",
+  "_id": "node\/4884211665",
+  "amenity": "hospital",
+  "addr_city": "Andapana"
+ },
+ {
+  "x": 80.8743927,
+  "y": 6.8961677,
+  "Name": "Keppetipola Dispensary",
+  "_id": "node\/4885968676",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4893267,
+  "y": 6.9905174,
+  "Name": "Ginigathhena Diivisional Hospital",
+  "_id": "node\/4890143149",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8151802,
+  "y": 6.422959,
+  "Name": "Udawalawa Government Hospital",
+  "_id": "node\/4894390564",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7170704,
+  "y": 8.2885862,
+  "Name": "Galenbindunuwewa Hospital",
+  "_id": "node\/4904980063",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7392932,
+  "y": 6.0507459,
+  "_id": "node\/4907040922",
+  "amenity": "hospital",
+  "name_en": "Base Hospital Beliatta"
+ },
+ {
+  "x": 80.6487466,
+  "y": 7.8741635,
+  "Name": "Dambulla Ayurveda Hospital",
+  "_id": "node\/4910764095",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Dambulla",
+  "addr_street": "Kurunegala - Dambulla Road"
+ },
+ {
+  "x": 81.2009194,
+  "y": 7.037552,
+  "Name": "Lunugala District Hospital",
+  "_id": "node\/4921735461",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5770925,
+  "y": 7.685545,
+  "Name": "Maadipola Hospital",
+  "_id": "node\/4936849273",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5313918,
+  "y": 7.1287805,
+  "Name": "Kurunduwaththa Divisional Hospital",
+  "_id": "node\/4939070630",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6368594,
+  "y": 7.6646097,
+  "Name": "Nalanda Hospital",
+  "_id": "node\/4945471065",
+  "amenity": "hospital",
+  "addr_city": "Nalanda",
+  "addr_street": "Jaffna - Kandy Road"
+ },
+ {
+  "x": 80.9143335,
+  "y": 7.5403487,
+  "Name": "Wilgamuwa Divisional Hospital",
+  "_id": "node\/4946331206",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9575018,
+  "y": 7.5871219,
+  "Name": "Maraka Divisional Hospital",
+  "_id": "node\/4986424414",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6980836,
+  "y": 6.2677965,
+  "_id": "node\/4993702022",
+  "amenity": "hospital",
+  "name_en": "Government Hospital - Katuwana"
+ },
+ {
+  "x": 80.763909,
+  "y": 6.2589936,
+  "_id": "node\/4993702925",
+  "amenity": "hospital",
+  "name_en": "Government Hospital - Middeniya"
+ },
+ {
+  "x": 80.20941,
+  "y": 6.954086,
+  "Name": "Gomez PVT Hospital",
+  "_id": "node\/5019110507",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.9485962,
+  "y": 7.4715658,
+  "Name": "Divisional Hospital - Kolongoda",
+  "_id": "node\/5030141284",
+  "amenity": "hospital",
+  "addr_street": "Hettipola - Hasalaka Road"
+ },
+ {
+  "x": 80.8955211,
+  "y": 6.8295684,
+  "Name": "Boralanda Base Hospital",
+  "_id": "node\/5124245208",
+  "amenity": "hospital",
+  "emergency": 1,
+  "operator": "Government"
+ },
+ {
+  "x": 80.875676,
+  "y": 6.8623086,
+  "Name": "Bogahakumbura Base Hospital",
+  "_id": "node\/5124245209",
+  "amenity": "hospital",
+  "emergency": 1,
+  "operator": "Government"
+ },
+ {
+  "x": 80.7321821,
+  "y": 7.9417419,
+  "Name": "Sigiriya Base Hospital",
+  "_id": "node\/5138765246",
+  "amenity": "hospital",
+  "addr_city": "Sigiriya",
+  "addr_street": "Sigiriya Road",
+  "addr_unit": "Kibissa"
+ },
+ {
+  "x": 80.5736346,
+  "y": 7.4360985,
+  "Name": "Ankumbura Ayurweda Dispensary",
+  "_id": "node\/5160601972",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6450197,
+  "y": 7.2910283,
+  "Name": "Kandy Nursing Home",
+  "_id": "node\/5173638392",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.0638204,
+  "y": 6.2131626,
+  "Name": "Madampagama Rural Hospital",
+  "_id": "node\/5176117555",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Ambalangoda",
+  "addr_street": "Aluthwala Road"
+ },
+ {
+  "x": 80.5788187,
+  "y": 7.3999425,
+  "Name": "Godahena Rural Hospital",
+  "_id": "node\/5181352383",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8576248,
+  "y": 6.9206251,
+  "_id": "node\/5188232523",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_street": "union place",
+  "name_en": "Ratnam Private Hospital"
+ },
+ {
+  "x": 81.1881513,
+  "y": 7.7878962,
+  "Name": "Aralaganwila Hospital",
+  "_id": "node\/5217490656",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.58734,
+  "y": 7.4612119,
+  "Name": "Owilikanda Hospital",
+  "_id": "node\/5219301101",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9005354,
+  "y": 7.0188878,
+  "_id": "node\/5248273022",
+  "amenity": "hospital",
+  "name_en": "Navy Hospital Welisara"
+ },
+ {
+  "x": 80.395554,
+  "y": 7.3265329,
+  "Name": "Rambukkana Hospital",
+  "_id": "node\/5320624184",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4480207,
+  "y": 7.4403955,
+  "Name": "Mawathagama Divisional Hospital",
+  "_id": "node\/5356102193",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8761609,
+  "y": 6.9832212,
+  "Name": "Lions Club Eye Hospital",
+  "_id": "node\/5377921579",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "healthcare_speciality": "ophthalmology"
+ },
+ {
+  "x": 81.1082277,
+  "y": 7.2362993,
+  "Name": "Uraniya District Hospital",
+  "_id": "node\/5400935336",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7561797,
+  "y": 8.0384853,
+  "Name": "Habarana Divisional Hospital",
+  "_id": "node\/5435909721",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5663665,
+  "y": 7.357817,
+  "Name": "Medawala Divisional Hospital",
+  "_id": "node\/5456012528",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.5599545,
+  "y": 7.915977,
+  "_id": "node\/5623747063",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.840092,
+  "y": 7.0667315,
+  "Name": "High Forest Government Hospital",
+  "_id": "node\/5634795266",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.1976713,
+  "y": 6.9847243,
+  "Name": "Hopton Hospital",
+  "_id": "node\/5661757672",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.1129261,
+  "y": 7.8930667,
+  "_id": "node\/5759109537",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.8783298,
+  "y": 7.3191871,
+  "_id": "node\/5803824055",
+  "amenity": "hospital",
+  "name_en": "District Hospital- Udadumbara"
+ },
+ {
+  "x": 80.5245613,
+  "y": 7.3725053,
+  "_id": "node\/5807374453",
+  "amenity": "hospital",
+  "name_en": "District Hospital-Galagedara"
+ },
+ {
+  "x": 80.5251747,
+  "y": 7.3716547,
+  "_id": "node\/5807374554",
+  "amenity": "hospital",
+  "name_en": "Medical officer of Health Office- Galagedara"
+ },
+ {
+  "x": 80.1866005,
+  "y": 7.5336572,
+  "Name": "Katupotha Divisional Hospital",
+  "_id": "node\/5907970351",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.3885883,
+  "y": 6.3327708,
+  "Name": "Hospital",
+  "_id": "node\/5968440712",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.1376735,
+  "y": 7.3487704,
+  "Name": "Dambadeniya hospital",
+  "_id": "node\/5973240867",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5057539,
+  "y": 7.3258412,
+  "Name": "Primary Care Hospital",
+  "_id": "node\/6066663511",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4772566,
+  "y": 7.3427233,
+  "Name": "Hatharaliyadda Divisional Hospital",
+  "_id": "node\/6183173991",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Hataraliyadda",
+  "addr_street": "Galagedara-Rambukkana Road"
+ },
+ {
+  "x": 80.5243428,
+  "y": 7.3721084,
+  "Name": "District Hospital Galagedara",
+  "_id": "node\/6183183898",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Galagedara",
+  "addr_street": "Galagedara-Rambukkana Road"
+ },
+ {
+  "x": 80.9259072,
+  "y": 7.1205112,
+  "Name": "Theripehe Hospital",
+  "_id": "node\/6184437040",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9264195,
+  "y": 7.0537261,
+  "Name": "Madulla Dispensary",
+  "_id": "node\/6185575100",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.0729245,
+  "y": 6.5701994,
+  "Name": "Wellatha Rural Hospital",
+  "_id": "node\/6236736780",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5798523,
+  "y": 7.770675,
+  "_id": "node\/6268756985",
+  "amenity": "hospital",
+  "name_en": "ලය විරේක මධ්‍යස්ථානය",
+  "phone": "0662289279"
+ },
+ {
+  "x": 80.0784364,
+  "y": 6.3434554,
+  "_id": "node\/6495229525",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8766451,
+  "y": 6.8884745,
+  "Name": "Lanka Hospitals",
+  "_id": "node\/6515047516",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.014342,
+  "y": 6.9225061,
+  "Name": "M D.H. Jayawardana Divisional Hospital Nawagamuwa",
+  "_id": "node\/6536295719",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.7063831,
+  "y": 6.4831595,
+  "Name": "Pallebedda Divisional Hospital",
+  "_id": "node\/6542571795",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.4005349,
+  "y": 7.133569,
+  "Name": "Divisional Hospital Ganthuna",
+  "description": "Government hospital with primary care unit",
+  "_id": "node\/6579895565",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "addr_city": "Ganthuna",
+  "addr_street": "Pallegama,",
+  "phone": "+94 35 3953558",
+  "addr_postcode": "71222",
+  "operator": "Government of Sri Lanka"
+ },
+ {
+  "x": 80.64486,
+  "y": 7.291136,
+  "Name": "Kandy Nursing Home",
+  "_id": "node\/6611417521",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.8649812,
+  "y": 6.9647924,
+  "Name": "Free Dispensary",
+  "_id": "node\/6615719550",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Colombo"
+ },
+ {
+  "x": 79.8990978,
+  "y": 6.8854297,
+  "Name": "Rawana Arana",
+  "_id": "node\/6631008087",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Sri Jayawadhanapura Kotte",
+  "addr_street": "Pagoda Road",
+  "addr_housenumber": "139\/7A"
+ },
+ {
+  "x": 79.9601667,
+  "y": 6.8955508,
+  "Name": "Body Doc Medical Center",
+  "_id": "node\/6657814469",
+  "amenity": "hospital",
+  "emergency": 0,
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.0524343,
+  "y": 6.9916573,
+  "Name": "Provincial General Hospital",
+  "_id": "node\/6702869774",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Badulla",
+  "addr_street": "Badulla - Bandarawela Road"
+ },
+ {
+  "x": 80.0113727,
+  "y": 7.2160191,
+  "_id": "node\/6754747985",
+  "amenity": "hospital",
+  "addr_street": "Minuwangoda-Diwulapitiya Road",
+  "name_en": "Government Hospital"
+ },
+ {
+  "x": 80.3535125,
+  "y": 7.4994802,
+  "_id": "node\/7159759462",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6010273,
+  "y": 6.1539661,
+  "Name": "deiyandara hospital",
+  "_id": "node\/7159813015",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8398902,
+  "y": 8.0237243,
+  "Name": "Balasooriya Hospital",
+  "_id": "node\/7182096942",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9318919,
+  "y": 7.5983976,
+  "Name": "District Hospital Bingiriya",
+  "_id": "node\/7196688790",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Bingiriya",
+  "addr_street": "Chilaw-Wariyapola Road"
+ },
+ {
+  "x": 80.7331905,
+  "y": 7.3980322,
+  "Name": "Madolkele Hospital",
+  "_id": "node\/7205314153",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5907241,
+  "y": 7.3809646,
+  "Name": "MOH Office - Pujapitiya",
+  "_id": "node\/7265765513",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.4017812,
+  "y": 6.6832054,
+  "Name": "Corporative Channel Centre",
+  "_id": "node\/7682218677",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Rathnapura",
+  "addr_street": "Inner Circular Road"
+ },
+ {
+  "x": 80.3223076,
+  "y": 6.3313532,
+  "Name": "Hiniduma Distric Hospital",
+  "_id": "node\/7781439399",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.8833535,
+  "y": 6.9199498,
+  "Name": "Air Force Hospital - Colombo",
+  "_id": "node\/7829346255",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Colombo 08",
+  "addr_street": "Saranapala Himi Mawatha",
+  "addr_housenumber": "d\/2\/34",
+  "phone": "+94112441044",
+  "addr_postcode": "00800",
+  "operator": "Sri Lanka Air Force"
+ },
+ {
+  "x": 79.936943,
+  "y": 8.874437,
+  "Name": "District Ayurvedic Hospital, Mannar",
+  "_id": "node\/7905128485",
+  "amenity": "hospital",
+  "District": "Mannar District",
+  "city": "Mannar"
+ },
+ {
+  "x": 81.0515802,
+  "y": 6.9920018,
+  "_id": "node\/7954026585",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "name_en": "Provincial General Hospital"
+ },
+ {
+  "x": 79.8535362,
+  "y": 6.9202245,
+  "Name": "Nawaloka specialist centre",
+  "_id": "node\/8307765317",
+  "amenity": "hospital",
+  "emergency": 1,
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "check_date": "13\/11\/2022 00:00:00",
+  "opening_hours": "24\/7",
+  "operator_type": "private"
+ },
+ {
+  "x": 80.0766541,
+  "y": 6.7185924,
+  "Name": "ABC HOSPITAL",
+  "_id": "node\/8326706066",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6822248,
+  "y": 7.2797312,
+  "Name": "Police Hospital - Kundasale",
+  "_id": "node\/8380640537",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.3945651,
+  "y": 6.6893429,
+  "Name": "Arya Hospital",
+  "_id": "node\/8393934616",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "wheelchair": "yes"
+ },
+ {
+  "x": 80.378143,
+  "y": 6.7111686,
+  "Name": "Sirimavo Bandaranayake Government Ayurvedic Hospital",
+  "_id": "node\/8400160771",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "phone": "+94 45 222 8982"
+ },
+ {
+  "x": 79.8775068,
+  "y": 6.7836657,
+  "Name": "Lunawa hospital",
+  "_id": "node\/8588646125",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Moratuwa",
+  "addr_street": "lunawa road"
+ },
+ {
+  "x": 79.97843,
+  "y": 6.8814474,
+  "Name": "Seth ulpatha weda medura",
+  "_id": "node\/8594058059",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Athurugiriya",
+  "addr_street": "Outer Circular Highway"
+ },
+ {
+  "x": 79.8656752,
+  "y": 6.8303971,
+  "Name": "Maharhishi Ayurveda Hospital",
+  "_id": "node\/8594262509",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Mount Lavinia",
+  "addr_street": "Samudrasanna Road"
+ },
+ {
+  "x": 79.9269836,
+  "y": 6.9776895,
+  "Name": "Kiribathgoda hospital",
+  "_id": "node\/8594965862",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Kiribathgoda",
+  "addr_street": "Colombo - Kandy Road"
+ },
+ {
+  "x": 79.8917922,
+  "y": 6.9721839,
+  "Name": "Nightingale Hospital",
+  "_id": "node\/8594968113",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Wattala",
+  "addr_street": "Thelangapatha Road"
+ },
+ {
+  "x": 79.8875746,
+  "y": 6.9559333,
+  "Name": "Oxford Lanka Medical",
+  "_id": "node\/8594973278",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Peliyagoda",
+  "addr_street": "Colombo - Kandy Road"
+ },
+ {
+  "x": 79.9474219,
+  "y": 6.9222495,
+  "Name": "Half Way Home Mulleriyawa",
+  "_id": "node\/8594986749",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Mulleriyawa",
+  "addr_street": "Rajasinghe Mawatha"
+ },
+ {
+  "x": 80.5918036,
+  "y": 7.2734056,
+  "Name": "Suwasevana hospital",
+  "_id": "node\/8595831008",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Kandy",
+  "addr_street": "Gannoruwa Road"
+ },
+ {
+  "x": 79.8872686,
+  "y": 6.886956,
+  "Name": "Nawala Medical Centre",
+  "_id": "node\/8606429587",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nawala",
+  "addr_street": "Nawala Road"
+ },
+ {
+  "x": 79.8873882,
+  "y": 6.8914282,
+  "Name": "Diabetic Foot Care & Rehabilitation Centre",
+  "_id": "node\/8606450117",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nawala",
+  "addr_street": "Vimala Vihara Road"
+ },
+ {
+  "x": 79.9754494,
+  "y": 6.8251147,
+  "Name": "Suwasewana Ayurvedic center",
+  "_id": "node\/8607505751",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nambuluwa",
+  "addr_street": "Papliwala Road"
+ },
+ {
+  "x": 79.9787088,
+  "y": 6.8012348,
+  "Name": "Rohana wijayasiri wedamahatha",
+  "_id": "node\/8607512350",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Mattegoda",
+  "addr_street": "Kirigampanuwa Road"
+ },
+ {
+  "x": 79.9485862,
+  "y": 6.8487554,
+  "Name": "Ranpatha Weda Madura",
+  "_id": "node\/8658907685",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Pannipitiya",
+  "addr_street": "Borella Kottawa Road"
+ },
+ {
+  "x": 80.1767677,
+  "y": 7.9977404,
+  "Name": "Mahananneriya District Hospital",
+  "_id": "node\/9399892407",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.2420581,
+  "y": 7.9168413,
+  "Name": "Divisional Hospital Ambanpola",
+  "_id": "node\/9400769331",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.7048663,
+  "y": 7.3127506,
+  "Name": "Divisional Hospital",
+  "_id": "node\/9448962251",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5214882,
+  "y": 6.8255699,
+  "Name": "old hospital",
+  "_id": "node\/9740549811",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.2857616,
+  "y": 8.3514924,
+  "Name": "Ayurvedic Hospital,Kiliveddy",
+  "_id": "node\/9767295827",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6796789,
+  "y": 7.4494282,
+  "Name": "Kandenuwara General  Hospital",
+  "_id": "node\/9769345590",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.8151441,
+  "y": 7.2898434,
+  "Name": "Medamahanuwara Divisional Hospital",
+  "_id": "node\/9771132582",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6767853,
+  "y": 7.5184272,
+  "Name": "Rattota Divisional Hospital",
+  "_id": "node\/9771162663",
+  "amenity": "hospital",
+  "emergency": 1,
+  "addr_city": "Rattota",
+  "addr_street": "Matale - Rattota - Pallegama Road",
+  "healthcare_speciality": "general",
+  "addr_postcode": "21400"
+ },
+ {
+  "x": 81.5809241,
+  "y": 7.7983392,
+  "Name": "University Hospital",
+  "_id": "node\/9771220747",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.5338311,
+  "y": 7.9094977,
+  "Name": "Valaichenai Base Hospital",
+  "_id": "node\/9771625020",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.6036836,
+  "y": 6.8742319,
+  "_id": "node\/9776389408",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.6048791,
+  "y": 6.873497,
+  "_id": "node\/9776389411",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5984059,
+  "y": 6.8896731,
+  "_id": "node\/9776850058",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5974926,
+  "y": 6.8883361,
+  "_id": "node\/9776850064",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5972337,
+  "y": 6.8897109,
+  "_id": "node\/9777000034",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.9250417,
+  "y": 6.9333693,
+  "Name": "Downside Divisonal Hospital",
+  "_id": "node\/9785764862",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.869818,
+  "y": 6.8938109,
+  "Name": "Weerasekara Aurwedha medical Center",
+  "_id": "node\/9793173329",
+  "amenity": "hospital"
+ },
+ {
+  "x": 80.5700934,
+  "y": 7.1547138,
+  "Name": "Pat care Animal Hospital",
+  "_id": "node\/9970637901",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5656001,
+  "y": 7.1553422,
+  "Name": "Lanka Medical",
+  "_id": "node\/9972579478",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.8938924,
+  "y": 7.0834698,
+  "Name": "Ayurweda Hospital Nildandahinna",
+  "_id": "node\/9991604797",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "addr_city": "Nildandahinna",
+  "addr_street": "Morangahathenna Road",
+  "healthcare_speciality": "general",
+  "operator_type": "government",
+  "addr_postcode": "22280",
+  "operator": "Ministry of Health",
+  "not_operator_wikidata": "Q16147207"
+ },
+ {
+  "x": 80.0668767,
+  "y": 6.6253422,
+  "_id": "node\/10030668800",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.088663,
+  "y": 6.6137155,
+  "_id": "node\/10030733044",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9991655,
+  "y": 6.8407199,
+  "Name": "Healan Hospital",
+  "_id": "node\/10115727873",
+  "amenity": "hospital",
+  "addr_street": "High Level Road",
+  "addr_housenumber": "380",
+  "phone": "+94 11 2857676;+94 71 6922443",
+  "website": "http:\/\/www.healanhospital.lk\/",
+  "branch": "Homagama"
+ },
+ {
+  "x": 80.7397239,
+  "y": 6.9436652,
+  "Name": "GLASSUGH A.A.DIVISION HOSPITAL",
+  "_id": "node\/10139130307",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.7444972,
+  "y": 6.942405,
+  "Name": "NANUOYA HOSPITAL",
+  "_id": "node\/10139139602",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.0679552,
+  "y": 6.6311352,
+  "_id": "node\/10150959135",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.2925642,
+  "y": 8.4812833,
+  "Name": "Sampur",
+  "_id": "node\/10155823625",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5532062,
+  "y": 7.3929,
+  "Name": "bokkawala",
+  "_id": "node\/10162146096",
+  "amenity": "hospital"
+ },
+ {
+  "x": 79.9151086,
+  "y": 6.956163,
+  "_id": "node\/10218912917",
+  "amenity": "hospital",
+  "addr_street": "Waragoda Road",
+  "name_en": "Lak suwa sahana",
+  "opening_hours": "24\/7",
+  "phone": "0731399122;0761399089",
+  "email": "info@laksuwasahana.lk",
+  "website": "http:\/\/www.laksuwasahana.lk"
+ },
+ {
+  "x": 81.7179159,
+  "y": 6.8779492,
+  "Name": "Divisional Hospital - Lahugala",
+  "_id": "node\/10243221102",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "operator_type": "government",
+  "operator": "Ministry of Health, Nutrition and Indigenous Medicine",
+  "operator_wikidata": "Q16147207"
+ },
+ {
+  "x": 79.8388358,
+  "y": 8.0277811,
+  "Name": "Base Hospital Puttalam",
+  "_id": "node\/10247906260",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "check_date": "09\/12\/2022 00:00:00",
+  "operator_type": "government"
+ },
+ {
+  "x": 79.9285909,
+  "y": 6.7632078,
+  "Name": "Family Medical Centre",
+  "_id": "node\/10282826828",
+  "amenity": "hospital",
+  "healthcare": "doctor",
+  "addr_city": "Madapatha",
+  "addr_street": "Ferry Road",
+  "healthcare_speciality": "general;blood_check",
+  "addr_housenumber": "16\/1",
+  "operator_type": "private",
+  "addr_postcode": "10306",
+  "operator": "Dr Lakmali Hewa Wasalage"
+ },
+ {
+  "x": 79.875833,
+  "y": 6.9000731,
+  "Name": "Army Hospital",
+  "_id": "node\/10294944051",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "wheelchair": "yes",
+  "addr_street": "Elvitigala Mawatha",
+  "healthcare_speciality": "general",
+  "addr_housenumber": "08",
+  "check_date": "09\/01\/2023 00:00:00",
+  "opening_hours": "24\/7",
+  "operator_type": "military",
+  "phone": "+94 112 697 218",
+  "operator": "SL Army"
+ },
+ {
+  "x": 80.4451963,
+  "y": 7.2544273,
+  "Name": "Medi Sevana Private Hosepital",
+  "_id": "node\/10578445503",
+  "amenity": "hospital"
+ },
+ {
+  "x": 81.2997025,
+  "y": 8.3229365,
+  "Name": "Hospital, serunuwara",
+  "_id": "node\/10614985210",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.9320067,
+  "y": 6.9663393,
+  "_id": "node\/10618470666",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.5400533,
+  "y": 5.9466474,
+  "_id": "node\/10783985525",
+  "amenity": "hospital",
+  "healthcare": "hospital",
+  "name_en": "COOP Hospital"
+ },
+ {
+  "x": 81.7354717,
+  "y": 7.4149436,
+  "Name": "Central Camp Government Hospital",
+  "_id": "node\/10839918583",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.1957774,
+  "y": 7.2258011,
+  "Name": "base hospital",
+  "_id": "node\/10936388555",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 80.0843247,
+  "y": 6.8109241,
+  "_id": "node\/10989218950",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 79.9081688,
+  "y": 6.7141921,
+  "Name": "City lab",
+  "_id": "node\/11018993428",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ },
+ {
+  "x": 81.2062726,
+  "y": 7.7377169,
+  "Name": "Primary Medical Center - Damminna",
+  "_id": "node\/11056066385",
+  "amenity": "hospital",
+  "healthcare": "hospital"
+ }
+]
